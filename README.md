@@ -1,4 +1,4 @@
-# TFN-AI RAG Project
+# Organization-AI RAG Project
 
 A Retrieval-Augmented Generation (RAG) system with intelligent query routing that combines semantic search and LLM-based analysis for organizational knowledge bases.
 
