@@ -1,3 +1,4 @@
+# Organization-AI RAG Project
 # Hybrid RAG Lookup Example
 
 This project demonstrates both semantic search and Retrieval-Augmented Generation (RAG) using AWS Bedrock and FAISS.
