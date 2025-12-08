@@ -4,7 +4,7 @@ TFN-AI RAG Preprocessing Script with Pre-computed Embeddings (FAISS Version)
 Processes PDFs, generates embeddings, and saves vector store for instant loading
 
 Usage:
-    python scripts/preprocess_docs.py
+    python scripts/preprocess.py
 
 Requirements:
     pip install langchain-text-splitters langchain-community langchain-aws boto3 faiss-cpu python-dotenv
@@ -94,7 +94,7 @@ DOCUMENT_TYPES_CONFIG = {
 
 # ==================== DocumentPreprocessor Class ====================
 
-class DocumentPreprocessor:
+class Preprocessor:
     """
     A modular class for preprocessing documents and building FAISS vector store.
     """
@@ -497,7 +497,7 @@ def parse_arguments():
 if __name__ == "__main__":
     args = parse_arguments()
     
-    preprocessor = DocumentPreprocessor(
+    preprocessor = Preprocessor(
         unstructured_dir=args.unstructured_dir,
         structured_dir=args.structured_dir,
         faiss_dir=args.faiss_dir,

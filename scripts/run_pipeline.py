@@ -41,7 +41,7 @@ def run_scraper():
 def run_preprocessor(rebuild=False):
     """Run your proven preprocessor."""
     print("📄 [*] Running preprocessor...")
-    cmd = [sys.executable, "-m", "scripts.preprocess_docs"]
+    cmd = [sys.executable, "-m", "scripts.preprocess"]
     
     if rebuild:
         cmd.append("--rebuild")
