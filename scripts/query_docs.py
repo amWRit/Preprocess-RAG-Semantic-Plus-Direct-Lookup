@@ -13,11 +13,12 @@ Requirements:
 
 import os
 import sys
+import json
 import argparse
 import boto3
 from dotenv import load_dotenv
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough
+from langchain_core.runnables import RunnablePassthrough, RunnableLambda
 from langchain_aws import BedrockEmbeddings, ChatBedrock
 from langchain_community.vectorstores import FAISS
 from langchain_classic import hub
@@ -26,8 +27,8 @@ from rich.panel import Panel
 from rich.text import Text
 from rich.table import Table
 
-# Load environment variables from .env file (from parent directory)
-load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
+# Load environment variables from .env.local file (from parent directory)
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env.local'))
 
 console = Console()
 
@@ -51,24 +52,21 @@ def initialize_rag():
         aws_session_token=AWS_SESSION_TOKEN,
     )
 
-    # Initialize LLM
-    llm = ChatBedrock(
-        client=bedrock_client,
-        model_id="amazon.nova-lite-v1:0",
-        temperature=0
-    )
-
     # Initialize embeddings
     embeddings = BedrockEmbeddings(
         client=bedrock_client,
         model_id="amazon.titan-embed-text-v2:0"
     )
 
-    return llm, embeddings, bedrock_client
+    return bedrock_client, embeddings
 
 
-def load_faiss_index(faiss_dir="unified_faiss_db", embeddings=None):
+def load_faiss_index(faiss_dir="../public/vector-store", embeddings=None):
     """Load FAISS index from disk."""
+    
+    if not os.path.isabs(faiss_dir):
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        faiss_dir = os.path.abspath(os.path.join(script_dir, faiss_dir))
     
     if not os.path.exists(faiss_dir):
         console.print(f"[red][-] FAISS index not found at {faiss_dir}[/red]")
@@ -88,29 +86,66 @@ def load_faiss_index(faiss_dir="unified_faiss_db", embeddings=None):
         return None
 
 
-def setup_rag_chain(db, llm):
-    """Setup RAG chain with retriever, prompt, and LLM."""
+def setup_rag_chain(db, bedrock_client):
+    """Setup RAG chain with retriever and Bedrock LLM."""
     
     retriever = db.as_retriever(search_kwargs={"k": 5})
     
-    # Pull RAG prompt template from LangChain hub
-    try:
-        rag_prompt = hub.pull("rlm/rag-prompt")
-    except Exception as e:
-        console.print(f"[yellow][!] Could not load hub prompt: {str(e)}[/yellow]")
-        console.print("[yellow][!] Using fallback prompt template.[/yellow]")
-        from langchain_core.prompts import ChatPromptTemplate
-        rag_prompt = ChatPromptTemplate.from_messages([
-            ("system", "Use the following pieces of context to answer the question. If you don't know the answer, say you don't know."),
-            ("human", "Context: {context}\n\nQuestion: {question}")
-        ])
+    # Create a custom LLM function that calls Bedrock directly
+    def invoke_bedrock(input_text):
+        """Call Bedrock directly with proper message formatting."""
+        messages = [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "text": input_text
+                    }
+                ]
+            }
+        ]
+        
+        body = {
+            "messages": messages,
+            "system": [
+                {
+                    "text": "You are a helpful assistant. Use the provided context to answer questions accurately and concisely. If you don't know the answer based on the context, say so."
+                }
+            ]
+        }
+        
+        try:
+            response = bedrock_client.invoke_model(
+                modelId="amazon.nova-lite-v1:0",
+                contentType="application/json",
+                accept="application/json",
+                body=json.dumps(body)
+            )
+            
+            response_body = json.loads(response['body'].read())
+            
+            # Extract text from response
+            if 'output' in response_body and 'message' in response_body['output']:
+                response_text = response_body['output']['message']['content'][0]['text']
+            else:
+                response_text = "Unable to generate response"
+            
+            return response_text
+        except Exception as e:
+            return f"Error: {str(e)}"
     
-    # Build RAG chain
+    # Build RAG chain using the custom Bedrock function
+    def format_docs(docs):
+        """Format retrieved documents for the prompt."""
+        return "\n\n".join(doc.page_content for doc in docs)
+    
     rag_chain = (
-        {"context": retriever, "question": RunnablePassthrough()}
-        | rag_prompt
-        | llm
-        | StrOutputParser()
+        {
+            "context": retriever | RunnableLambda(format_docs),
+            "question": RunnablePassthrough()
+        }
+        | RunnableLambda(lambda x: f"Context:\n{x['context']}\n\nQuestion: {x['question']}")
+        | RunnableLambda(invoke_bedrock)
     )
     
     return rag_chain
@@ -263,29 +298,29 @@ def main():
     # Initialize RAG components
     console.print("[*] Initializing AWS Bedrock and embeddings...")
     try:
-        llm, embeddings, bedrock_client = initialize_rag()
+        bedrock_client, embeddings = initialize_rag()
         console.print("[+] AWS Bedrock initialized successfully.")
     except Exception as e:
         console.print(f"[red][-] Failed to initialize AWS Bedrock: {str(e)}[/red]")
         console.print("[yellow][!] Check your .env file for valid AWS credentials.[/yellow]")
         sys.exit(1)
-    
+
     # Load FAISS index
     console.print(f"[*] Loading FAISS index from {args.faiss_dir}...")
     db = load_faiss_index(args.faiss_dir, embeddings)
     if db is None:
         sys.exit(1)
-    
+
     # Show stats if requested
     if args.stats:
         show_index_stats(db)
         return
-    
+
     # Setup RAG chain
     console.print("[*] Setting up RAG chain...")
-    rag_chain = setup_rag_chain(db, llm)
+    rag_chain = setup_rag_chain(db, bedrock_client)
     console.print("[+] RAG chain initialized successfully.\n")
-    
+
     # Determine mode based on arguments
     if args.interactive or (args.query is None):
         # Interactive mode

@@ -1,3 +1,55 @@
+# Hybrid RAG Lookup Example
+
+This project demonstrates both semantic search and Retrieval-Augmented Generation (RAG) using AWS Bedrock and FAISS.
+
+## Workflow
+
+1. **Preprocessing**
+  - Run `python scripts/preprocess_docs.py --rebuild` to create the FAISS index and structured JSON data.
+  - This generates `public/vector-store/index.faiss` and `public/vector-store/index.pkl`.
+
+2. **Semantic Lookup**
+  - Use `scripts/semantic_lookup.py` for fast, deterministic semantic and exact search directly from your structured data. No generative AI is used.
+
+3. **Hybrid RAG Lookup**
+  - Use `scripts/hybrid_rag_lookup.py` to combine semantic retrieval (FAISS) with generative answering (Bedrock LLM).
+  - The script retrieves relevant context using embeddings, then sends it to the LLM to generate a natural language answer.
+
+## Example Usage
+
+```bash
+# Step 1: Preprocess and build index
+python scripts/preprocess_docs.py --rebuild
+
+# Step 2: Run hybrid RAG lookup
+python scripts/hybrid_rag_lookup.py
+```
+
+## Requirements
+
+- Python 3.10+
+- AWS credentials in `.env.local` or `.env` (see example below)
+- Required packages: `langchain-aws`, `langchain-community`, `faiss-cpu`, `python-dotenv`, `boto3`, `numpy`
+
+## .env.local Example
+
+```
+AWS_ACCESS_KEY_ID=your-access-key
+AWS_SECRET_ACCESS_KEY=your-secret-key
+AWS_SESSION_TOKEN=your-session-token  # if using temporary credentials
+AWS_REGION=us-east-1
+```
+
+## Scripts
+
+- `scripts/preprocess_docs.py`: Preprocess PDFs, extract structured data, build FAISS index
+- `scripts/semantic_lookup.py`: Fast semantic and exact search (no LLM)
+- `scripts/hybrid_rag_lookup.py`: Semantic retrieval + generative answer (true RAG)
+
+## Troubleshooting
+
+- If you see errors about missing FAISS index, run the preprocessing script first.
+- If you see AWS credential or region errors, check your `.env.local` file.
 # TFN-AI RAG Project
 
 A Retrieval-Augmented Generation (RAG) system with intelligent query routing that combines semantic search and LLM-based analysis for organizational knowledge bases.
@@ -55,7 +107,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Configure AWS Credentials
-Create a `.env` file in the project root:
+Create a `.env.local` file in the project root:
 ```
 AWS_REGION=us-east-1
 AWS_ACCESS_KEY_ID=your_access_key

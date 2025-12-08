@@ -115,7 +115,7 @@ class DocumentPreprocessor:
         self.unstructured_dir = unstructured_dir or os.path.join(project_root, "data", "unstructured")
         self.structured_dir = structured_dir or os.path.join(project_root, "data", "structured")
         self.faiss_dir = faiss_dir or os.path.join(project_root, "public", "vector-store")
-        self.output_json = output_json or os.path.join(project_root, "all_structured_data.json")
+        self.output_json = output_json or os.path.join(project_root, "public", "all_structured_data.json")
         self.faiss_index_path = os.path.join(self.faiss_dir, "index.faiss")
         
         # Initialize AWS and LLM
@@ -138,8 +138,8 @@ class DocumentPreprocessor:
     
     def _init_aws_and_llm(self):
         """Initialize AWS Bedrock client and LLM."""
-        # Load .env from parent directory
-        env_path = os.path.join(os.path.dirname(__file__), '..', '.env')
+        # Load .env.local from parent directory
+        env_path = os.path.join(os.path.dirname(__file__), '..', '.env.local')
         load_dotenv(env_path)
         
         AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID')
@@ -210,21 +210,66 @@ class DocumentPreprocessor:
             # Setup extraction chain
             pydantic_model = config["pydantic_model"]
             parser = PydanticOutputParser(pydantic_object=pydantic_model)
+            format_instructions = parser.get_format_instructions()
             
-            prompt = ChatPromptTemplate.from_messages([
-                ("system", config["system_prompt"]),
-                ("human", "Text: {text}")
-            ]).partial(format_instructions=parser.get_format_instructions())
+            # Create the system prompt with format instructions
+            system_prompt_text = config["system_prompt"].format(format_instructions=format_instructions)
             
-            chain = (
-                {"text": RunnablePassthrough()}
-                | prompt
-                | self.llm
-                | parser
+            # Build the user message with the text to extract from
+            user_message = f"Text: {raw_text}"
+            
+            # Call Bedrock directly with proper message format
+            import json
+            
+            messages = [
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "text": user_message
+                        }
+                    ]
+                }
+            ]
+            
+            # Create the body with proper format for nova-lite model
+            body = {
+                "messages": messages,
+                "system": [
+                    {
+                        "text": system_prompt_text
+                    }
+                ]
+            }
+            
+            response = self.bedrock_client.invoke_model(
+                modelId=BEDROCK_LLM_MODEL_ID,
+                contentType="application/json",
+                accept="application/json",
+                body=json.dumps(body)
             )
             
-            # Extract data
-            extracted_data = chain.invoke(raw_text)
+            # Parse the response
+            response_body = json.loads(response['body'].read())
+            
+            # Extract text from response - handle different possible formats
+            if 'output' in response_body and 'message' in response_body['output']:
+                response_text = response_body['output']['message']['content'][0]['text']
+            elif 'content' in response_body:
+                response_text = response_body['content'][0]['text']
+            else:
+                raise ValueError(f"Unexpected response format: {response_body}")
+            
+            # Strip markdown code blocks if present
+            if response_text.startswith('```'):
+                # Remove opening ```json or similar
+                response_text = response_text.split('\n', 1)[1]
+                # Remove closing ```
+                response_text = response_text.rsplit('\n```', 1)[0]
+            
+            # Parse the JSON response
+            extracted_json = json.loads(response_text)
+            extracted_data = pydantic_model(**extracted_json)
             items = getattr(extracted_data, config["extraction_field"])
             
             print(f"    [+] Extracted {len(items)} items from {filename}")

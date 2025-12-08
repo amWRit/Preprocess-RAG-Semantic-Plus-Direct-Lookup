@@ -13,7 +13,7 @@ import boto3
 from dotenv import load_dotenv
 import numpy as np
 
-load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env.local'))
 
 # ==================== Constants ====================
 
@@ -29,7 +29,7 @@ class SemanticLookup:
         project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         
         # Set default path relative to project root
-        self.json_file = json_file or os.path.join(project_root, "all_structured_data.json")
+        self.json_file = json_file or os.path.join(project_root, "public", "all_structured_data.json")
         self.data = self._load_json()
         self.embeddings = self._init_embeddings()
         
