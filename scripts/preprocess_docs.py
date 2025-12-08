@@ -299,17 +299,36 @@ class DocumentPreprocessor:
         return extracted_results
     
     def save_structured_data(self, extracted_results):
-        """Save extracted structured data to JSON file."""
-        output_data = {}
+        """✅ READS scraper JSON + EXTENDS with PDF data."""
+        # Load EXISTING scraper data (alumni, fellows, schools)
+        existing_data = {}
+        if os.path.exists(self.output_json):
+            try:
+                with open(self.output_json, 'r', encoding='utf-8') as f:
+                    existing_data = json.load(f)
+                print(f"📂 Loaded existing scraper data: {len(existing_data)} sections")
+            except Exception as e:
+                print(f"⚠️  Could not load existing JSON: {e}")
+        
+        # Add PDF extracted data
+        pdf_data = {}
         for result in extracted_results:
             field_name = result["field_name"]
             items = result["items"]
-            output_data[field_name] = [item.model_dump() for item in items]
+            pdf_data[field_name] = [item.model_dump() for item in items]
         
-        with open(self.output_json, "w") as f:
-            json.dump(output_data, f, indent=2)
+        # ✅ MERGE: existing (scraper) + new (PDF)
+        combined_data = {**existing_data, **pdf_data}
+        
+        # Write combined data
+        with open(self.output_json, "w", encoding='utf-8') as f:
+            json.dump(combined_data, f, indent=2, ensure_ascii=False)
         
         print(f"[+] Structured data saved to {self.output_json}")
+        print(f"[+] Combined data saved to {self.output_json}")
+        print(f"    📊 Scraper sections: {len(existing_data)}")
+        print(f"    📊 PDF sections: {len(pdf_data)}")
+        print(f"    📊 TOTAL sections: {len(combined_data)}")
     
     def convert_to_documents(self, extracted_results):
         """Convert extracted structured data to Document objects."""

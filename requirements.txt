@@ -13,3 +13,6 @@ unstructured[pdf]
 atlassian-python-api
 rich
 faiss-cpu
+requests
+beautifulsoup4
+lxml
