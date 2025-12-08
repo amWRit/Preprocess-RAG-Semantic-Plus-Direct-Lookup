@@ -1,0 +1,15 @@
+langchain-aws
+langchain
+langchain-classic
+langgraph
+langchain-chroma
+langchain-community
+langchain-text-splitters
+pypdf
+PyPDF2
+pydantic
+langchain-google-community
+unstructured[pdf]
+atlassian-python-api
+rich
+faiss-cpu

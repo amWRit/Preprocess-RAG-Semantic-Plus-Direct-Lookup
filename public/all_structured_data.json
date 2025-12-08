@@ -1,0 +1,184 @@
+{
+  "partners": [
+    {
+      "name": "Ministry of Education, Science and Technology",
+      "type": "Government",
+      "description": "The Ministry of Education, Science and Technology is responsible for overall development of education in the country.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Teach For Nepal",
+      "type": "Nonprofit",
+      "description": "Teach For Nepal partners with the Nepal Government to place its Fellows in under-resourced schools.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Teach For All",
+      "type": "Network",
+      "description": "The Teach For All network is developing collective leadership in classrooms and communities around the world.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Surya Nepal Pvt. Ltd.",
+      "type": "Corporate",
+      "description": "Surya Nepal Private Limited, a leading Nepalese company, has been a dedicated partner of Teach For Nepal since 2018.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Golchha Group",
+      "type": "Industrial",
+      "description": "The Golchha Group, a pioneering industrial group in Nepal, has been supporting Teach For Nepal since its inception.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Sarvodaya USA",
+      "type": "Nonprofit",
+      "description": "Sarvodaya USA is a nonprofit organization dedicated to building a world of communities based on non-violence, service, and cooperation.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Nepal Rising",
+      "type": "Nonprofit",
+      "description": "Nepal Rising empowers Nepali Americans to drive positive change in Nepal.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Everest Bank Limited",
+      "type": "Bank",
+      "description": "Everest Bank Limited is a leading bank in Nepal that supports a Teach For Nepal Fellow.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Siddhartha Bank Ltd.",
+      "type": "Bank",
+      "description": "Siddhartha Bank Limited is a leading Nepali bank that supports a Teach For Nepal Fellow.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Daya Foundation",
+      "type": "Nonprofit",
+      "description": "Daya Foundation is a registered Nepalese non-profit organization dedicated to empowering local communities.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Kings College, Nepal",
+      "type": "Educational Institution",
+      "description": "Kings College is a premiere Business School in Nepal that offers scholarships to Teach For Nepal Fellows.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Merojob.com (Career Partner)",
+      "type": "Job Portal",
+      "description": "MeroJob is a leading job portal in Nepal that collaborates with Teach For Nepal to connect young graduates with opportunities.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Vianet Communications",
+      "type": "Internet Service Provider",
+      "description": "Vianet Communications is a leading provider of high-speed Internet connectivity and communications solutions in the Kathmandu Valley.",
+      "contact_person": "Not specified"
+    }
+  ],
+  "staff_members": [
+    {
+      "name": "Swastika Shrestha",
+      "role": "Chief Executive Officer, Co-founder and Director of Training and Support",
+      "bio": "Swastika Shrestha has dedicated her life to developing leadership skills and facilitating life and leadership development among youth in Nepal and the US. After completing her masters from the US, she worked with various international organizations before joining Teach For Nepal to nurture leaders to transform classrooms, communities, and the nation."
+    },
+    {
+      "name": "Krishna Kumar K.C.",
+      "role": "Chief of Staff",
+      "bio": "Krishna Kumar K.C. has over 24 years of teaching experience in primary and secondary schools in Lalitpur, including 10 years as a Head Teacher in Ashrang. He believes that with the right mindset and energy, teachers can overcome the challenges faced by community schools."
+    },
+    {
+      "name": "Khika Prasad Nepal",
+      "role": "Associate Director Community Liaison",
+      "bio": "Khika Prasad Nepal transitioned from teaching to the development field, working with various organizations for over 12 years. He holds a Masters of Sociology from Tribhuvan University and finds fulfillment in working with Teach For Nepal to bring real change to schools and communities."
+    },
+    {
+      "name": "Ankush Upreti",
+      "role": "Head of Recruitment Selection and Matriculation (TFN Alumni)",
+      "bio": "Ankush Upreti was inspired by the transformative experience of the TFN Fellowship to identify and nurture aspiring young leaders. He believes these leaders have the potential to drive meaningful change in Nepal's education system."
+    },
+    {
+      "name": "Madhav Prasad Devkota",
+      "role": "Head of Training & Community Support (TFN Alumni)",
+      "bio": "Madhav Prasad Devkota aims to teach students beyond the curriculum, including personal hygiene, community sanitation, and balanced diet. As a Training and Community Support Manager, he guides Fellows to face challenges in their Fellowship."
+    },
+    {
+      "name": "Ruma Maharjan",
+      "role": "Stakeholders' Engagement & Impact Manager (TFN Alumni)",
+      "bio": "Ruma Maharjan believes in equity in education as the key to resolving inequities and biases. She joined Teach For Nepal to contribute to the movement of equity and play a part in the change the country needs."
+    },
+    {
+      "name": "Rebati Ram (Rafael) Poudel",
+      "role": "Development and Partnership Manager",
+      "bio": "Rebati Ram Poudel has a diverse background in youth development, social entrepreneurship, and grassroots education reform. He has worked with various organizations and now brings his experience back to Teach For Nepal to support its development and partnership efforts."
+    },
+    {
+      "name": "Sadhana Shrestha",
+      "role": "Selection Manager",
+      "bio": "Sadhana Shrestha returned to Nepal after completing her Master's Degree in Germany to contribute to Teach For Nepal's mission of ending education inequity. As a Selection Coordinator, she selects candidates passionate about making an impact in classrooms and communities."
+    },
+    {
+      "name": "Preeti Shrestha",
+      "role": "Human Resource & Administrative Manager (TFN Alumni)",
+      "bio": "Preeti Shrestha believes in the power of education to unleash human potential. She has been involved with Teach For Nepal since 2015 as a fellow and now in her current role, she is dedicated to the organization's vision."
+    },
+    {
+      "name": "Shekhar Kumal",
+      "role": "Finance Manager",
+      "bio": "Shekhar Kumal has over 10 years of experience in financial management, budgeting, accounting, and compliance within international development programs. He ensures smooth and efficient financial management across Teach For Nepal."
+    },
+    {
+      "name": "Sami Manandhar",
+      "role": "Project Manager (TFN Alumni)",
+      "bio": "Sami Manandhar joined Teach For Nepal to explore and understand Nepal's diverse communities. He now aims to contribute to environmental education and empower children to be part of the solution to climate change."
+    },
+    {
+      "name": "Jenisha Shakya",
+      "role": "Recruitment Manager (TFN Alumni)",
+      "bio": "Jenisha Shakya is passionate about creating equitable learning opportunities. She has led initiatives promoting gender equality, student engagement, and inclusive education and now inspires and recruits future leaders for Teach For Nepal."
+    },
+    {
+      "name": "Asmita Guragain",
+      "role": "Recruitment Coordinator (TFN Alumni)",
+      "bio": "Asmita Guragain's journey with Teach For Nepal has been a journey of personal growth and societal impact. She is now a Recruitment Coordinator advocating for the inclusion of dynamic young leaders in the public education system."
+    },
+    {
+      "name": "Gaurab Ghimire",
+      "role": "Leadership Development Coordinator (TFN Alumni)",
+      "bio": "Gaurab Ghimire is passionate about educational equity and committed to helping fellows thrive. He sees his role as a Leadership Development Coordinator as a platform to grow professionally while contributing to the development of others."
+    },
+    {
+      "name": "Samikshya Kharel",
+      "role": "Leadership Development Coordinator (TFN Alumni)",
+      "bio": "Samikshya Kharel is a committed educator and advocate for educational equity. She mentors and supports new Fellows, helping them build the skills and confidence needed to create meaningful impact in their classrooms and communities."
+    },
+    {
+      "name": "Lokesh Khadaka",
+      "role": "Leadership Development Coordinator (TFN Alumni)",
+      "bio": "Lokesh Khadaka is a purpose-driven community builder and advocate for quality education and youth leadership. He works closely with the Chief Executive Officer to advance Teach For Nepal's mission and vision."
+    },
+    {
+      "name": "Hari Krishna Khatri",
+      "role": "Recruitment Coordinator",
+      "bio": "Hari Krishna Khatri started his career in teaching and later realized his passion for the education sector. He now works as a Recruitment Coordinator at Teach For Nepal, supporting and inspiring young leaders to join the TFN movement."
+    },
+    {
+      "name": "Akriti Paudel",
+      "role": "Leadership Development Coordinator (TFN Alumni)",
+      "bio": "Akriti Paudel is driven by a passion for equitable education. She served as a Teach For Nepal Mathematics Fellow in the Himalayas and now works as a Leadership Development Coordinator, guiding high-potential fellows to create sustainable change."
+    },
+    {
+      "name": "Amir Khokhali",
+      "role": "Data and IT Operations Associate",
+      "bio": "Amir Khokhali was inspired by TFN Fellows during his school years and now aims to contribute back to the organization by using his technical skills and passion for education and technology."
+    },
+    {
+      "name": "Sirjana Dhital",
+      "role": "Office Assistant",
+      "bio": "Sirjana Dhital moved to Kathmandu from her village and has been working at Teach For Nepal since its inception. She believes in the importance of education for all children and is proud to see young people teaching in rural schools."
+    }
+  ]
+}
