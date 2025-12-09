@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-TFN RAG Index Builder - Combines JSONs → FAISS Vector Store
+RAG Index Builder - Combines JSONs → FAISS Vector Store
 Loads: scraped_data.json + structured_data.json + unstructured_chunks.json
 Saves: combined_data.json + public/vector-store/index.faiss
 
-Usage: python scripts/vector_store_builder.py --rebuild
+Usage: python scripts/index_builder.py --rebuild
 """
 
 import os

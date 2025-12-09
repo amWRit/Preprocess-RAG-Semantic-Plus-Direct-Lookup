@@ -83,20 +83,19 @@ def run_preprocessor():
     return True
 
 
-def run_vector_store_builder(rebuild=False):
-    """🔗 Run vector store builder tool."""
-    print("🔗 [*] Running vector store builder...")
-    cmd = [sys.executable, "-m", "scripts.vector_store_builder"]  # 👈 UPDATED!
+def run_indexbuilder(rebuild=False):
+    """🔗 Run index builder tool."""
+    print("🔗 [*] Running index builder...")
+    cmd = [sys.executable, "-m", "scripts.indexbuilder"]  # updated here
     if rebuild:
         cmd.append("--rebuild")
     result = subprocess.run(cmd, capture_output=False, text=True)
     
     if result.returncode != 0:
-        print("❌ Vector store builder failed!")
+        print("❌ Index builder failed!")
         return False
-    print("✅ Vector store ready! → public/vector-store/")
+    print("✅ Index ready! → public/vector-store/")
     return True
-
 
 def check_prerequisites():
     """📁 Ensure all directories exist."""
@@ -164,7 +163,7 @@ def main():
         # Full RAG pipeline
         success = (run_scraper() and 
                   run_preprocessor() and 
-                  run_vector_store_builder(args.rebuild))
+                  run_indexbuilder(args.rebuild))
     
     if success:
         print("\n🎉 PIPELINE COMPLETE!")
