@@ -1,0 +1,786 @@
+{
+  "partners": [
+    {
+      "name": "Ministry of Education, Science and Technology",
+      "type": "Government",
+      "description": "The Ministry of Education (MoE) was established in 1951 and was renamed as the Ministry of Education and Sports (MoES) in 2002. It was again renamed as Ministry of Education with the decision of Cabinet in 15 Bhadra 2065 BS. The MoE as the apex body of all educational organizations is responsible for overall development of education in the country. This Ministry is responsible for formulating educational policies and plans and managing and implementing them across the country through the institutions under it.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Ministry of Education/Department of Education, Nepal",
+      "type": "Government",
+      "description": "Teach For Nepal partners with the Nepal Government to place its Fellows in under-resourced schools. The Ministry of Education values the innovative teaching methods and quality education provided by Teach For Nepal Fellows. The Center for Education and Human Resource Development (CEHRD), established in 2075 BS, oversees education policy and programs in Nepal. CEHRD was formed by merging the Department of Education, National Center for Educational Development, and Non-formal Education.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Teach For All",
+      "type": "Network",
+      "description": "The Teach For All network is developing collective leadership in classrooms and communities around the world. Teach For All is a network of 50 independent, locally led and governed partner organizations and a global organization that works to accelerate the network's progress.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Surya Nepal Pvt. Ltd.",
+      "type": "Private Company",
+      "description": "Surya Nepal Private Limited, a leading Nepalese company with a strong commitment to community development, has been a dedicated partner of Teach For Nepal since 2018. As a subsidiary of ITC Limited, India, Surya Nepal has established a robust Corporate Social Responsibility (CSR) arm, SNPL Asha, focused on empowering communities through initiatives in education, women's empowerment, agriculture, and social entrepreneurship. By investing significantly in public education, particularly in marginalized regions like Parsa and Tanahun, Surya Nepal has played a pivotal role in improving the quality of education for thousands of students. This partnership has been instrumental in placing Teach For Nepal Fellows in schools across the country, aligning with both organizations' shared vision of a brighter future for Nepal.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Golchha Group",
+      "type": "Industrial Group",
+      "description": "The Golchha Group, a pioneering industrial group in Nepal, carries a legacy of 100 years. Since its inception, the Golchha family has been venturing into forming the largest company in Nepal that contributes to a significant part of the economy. Anchored by a strong workforce of over 1700 employees and years of trust from millions of loyal customers today, Golchha Group operates over 100 companies within Nepal. It has established a formidable reputation for itself. With over ten decades of entrepreneurial legacy and unceasing acts of altruism, Golchha Group has been transforming the lives of millions of Nepalese and giving wings to their dreams. From the earliest days of Teach For Nepal, Golchha group has been generously supporting Teach For Nepal Movement and its cause.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Sarvodaya USA",
+      "type": "Nonprofit Organization",
+      "description": "Sarvodaya USA is a nonprofit organization dedicated to building a world of communities based on non-violence, service, and cooperation. Our vision is a world of communities based on non-violence, service, and cooperation. Our mission is to facilitate individual and community development to meet basic human needs, reduce material, social and spiritual poverty, and enhance the quality of life for all.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Nepal Rising",
+      "type": "Nonprofit Organization",
+      "description": "Nepal Rising (Daayitwa US), a US-based 501(c)(3) non-profit organization, empowers Nepali Americans to drive positive change in Nepal. Nepal Rising fosters collaboration to support relief, rebuilding, and resilience efforts in communities across the country. Currently, Nepal Rising has been supporting five Fellows working in Teach For Nepal placed schools in two districts.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Everest Bank Limited",
+      "type": "Bank",
+      "description": "Catering to more than 14 lakhs customers, Everest Bank Limited (EBL) is a name you can depend on for professionalized & efficient banking services. Founded in 1994, the Bank has been one of the leading banks of the country and has been catering its services to various segments of the society. With clients from all walks of life, the Bank has helped the nation to develop corporately, agriculturally & industrially. Everest Bank currently supports a Teach For Nepal Fellow from Dhanusa district.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Siddhartha Bank Ltd.",
+      "type": "Bank",
+      "description": "Siddhartha Bank Limited (SBL) is a leading Nepali bank renowned for its customer-centric approach and digital innovation. Established in 2002, SBL offers a wide range of banking services accessible through both traditional and digital channels. With a strong commitment to corporate social responsibility, the bank actively contributes to Nepal's development. Currently Siddartha Bank supports a Fellow.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Daya Foundation",
+      "type": "Nonprofit Organization",
+      "description": "Daya Foundation is a registered Nepalese non-profit organization dedicated to empowering local communities. The foundation offers financial, technical, and volunteer support to organizations focused on education, health, and culture. By partnering with schools, hospitals, youth groups, and other non-profits, Daya Foundation aims to enhance their capacity and create sustainable impact. The foundation has provided support to Teach For Nepal's core program during the 2023-2024 fiscal year.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Kings College, Nepal",
+      "type": "Educational Institution",
+      "description": "Dedicated to provide world class education in Nepal, Kings College is a premiere Business School in Nepal. The college offers BBA and MBA degrees to Nepalese students. Kings College provides scholarships to TFN Fellows to pursue MBA degree.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Merojob.com (Career Partner)",
+      "type": "Job Portal",
+      "description": "MeroJob, Nepal's leading job portal, has been connecting job seekers and employers since 2009. With millions of monthly visitors and a vast database of candidates, MeroJob facilitates over 150,000 successful placements. Driven by innovation and exceptional customer service, MeroJob has become the preferred choice for recruitment solutions in Nepal. The dedicated team and robust technology platform ensure a seamless and efficient job search experience. Teach For Nepal and MeroJob has been actively collaborating in identifying and connecting promising young graduates with impactful opportunities, contributing to the nation's development.",
+      "contact_person": "Not specified"
+    },
+    {
+      "name": "Vianet Communications",
+      "type": "Internet Service Provider",
+      "description": "Vianet Communications P. Ltd. is one of the leading providers of high speed Internet connectivity and communications solutions for business and individuals in the greater Kathmandu Valley. Established in 1999, Vianet Communications has always remained in the forefront providing reliable and affordable Broadband Internet Services. In 2011 Vianet Communications pioneered in introducing Fiber Optics Internet or commonly known as FTTH internet service and has been successful in connecting the most number of homes and offices with FTTH in the region. We are solely focused on FTTH services and our engineers constantly strive to bring the best product and service package according to our customer needs. Vianet Communications aims to be the service provider that makes future Broadband dream a reality today.",
+      "contact_person": "Not specified"
+    }
+  ],
+  "staff_members": [
+    {
+      "name": "Swastika Shrestha",
+      "role": "Chief Executive Officer, Co-founder and Director of Training and Support",
+      "bio": "Swastika Shrestha is the Chief Executive Officer, Co-founder and Director of Training and Support at Teach For Nepal. She has a background in life and leadership development and has worked with various organizations in Nepal and the US. Her current role involves nurturing leaders to transform classrooms, communities, and the nation."
+    },
+    {
+      "name": "Krishna Kumar K.C.",
+      "role": "Chief of Staff",
+      "bio": "Krishna Kumar K.C. has over 24 years of teaching experience in primary and secondary schools in Lalitpur, Nepal. He spent 10 years as a Head Teacher in Ashrang, one of the furthest VDCs in Lalitpur. He believes in the power of teachers to overcome challenges faced by community schools and is proud to be part of the movement to raise the leadership skills of a new generation."
+    },
+    {
+      "name": "Khika Prasad Nepal",
+      "role": "Associate Director Community Liaison",
+      "bio": "Khika Prasad Nepal has taught at various schools since 2004 and later transitioned to the development field. He has worked in the development sector for over 12 years and holds a Masters of Sociology from Tribhuvan University. As an Associate Director of Community Liaison, he works closely with Fellows, Leadership Development Coordinators, Managers, and the community, feeling accomplished when Fellows bring real change to schools and communities."
+    },
+    {
+      "name": "Ankush Upreti",
+      "role": "Head of Recruitment Selection and Matriculation (TFN Alumni)",
+      "bio": "Ankush Upreti was inspired by the transformative experience of the TFN Fellowship to join Teach For Nepal. He is passionate about identifying and nurturing young leaders who are committed to driving meaningful change in Nepal's education system. He believes these individuals have the potential to effect immediate change and emerge as lifelong leaders."
+    },
+    {
+      "name": "Madhav Prasad Devkota",
+      "role": "Head of Training & Community Support (TFN Alumni)",
+      "bio": "Madhav Prasad Devkota, a former TFN Fellow, wanted his students to learn more than just Science. As a Training and Community Support Manager, he serves as a role model and source of inspiration to Fellows, guiding them to face challenges in their Fellowship and become effective leaders."
+    },
+    {
+      "name": "Ruma Maharjan",
+      "role": "Stakeholders' Engagement & Impact Manager (TFN Alumni)",
+      "bio": "Ruma Maharjan realized the potential for change during her two years as a TFN Fellow. She believes in equity in education as the key to resolving inequities and biases. After completing her Fellowship, she joined the TFN staff team, leveraging her previous experience as a recruiter and Events Manager to contribute to the movement of equity."
+    },
+    {
+      "name": "Rebati Ram (Rafael) Poudel",
+      "role": "Development and Partnership Manager",
+      "bio": "Rebati Ram (Rafael) Poudel has a diverse background in the development sector, including roles at Smart Club, Youth Initiative, ChangeFusion Nepal, and Rooster Logic. He has been with Teach For Nepal since its formative years and currently serves as the Development and Partnership Manager, committed to impactful work in Nepal's development landscape."
+    },
+    {
+      "name": "Sadhana Shrestha",
+      "role": "Selection Manager",
+      "bio": "Sadhana Shrestha returned to Nepal after completing her Master's Degree in Germany, driven by a desire to make a purposeful impact. She joined Teach For Nepal, finding great satisfaction in selecting candidates who are passionate about making a difference in classrooms and communities."
+    },
+    {
+      "name": "Preeti Shrestha",
+      "role": "Human Resource & Administrative Manager (TFN Alumni)",
+      "bio": "Preeti Shrestha has a background in HR and has been with Teach For Nepal since 2015. She is committed to the organization's mission and ethos, finding fulfillment in her role as an HR & Administrative Manager, where she contributes to the overarching vision of ending education inequity in Nepal."
+    },
+    {
+      "name": "Shripa Padhan",
+      "role": "Communication and Development Manager",
+      "bio": "Shripa Padhan has worked with marginalized communities, leading advocacy, capacity-building, and digital storytelling initiatives. She joined Teach For Nepal because its mission aligns with her core values of equity, community, and systemic change. In her role, she amplifies the voices of Fellows and supports their work."
+    },
+    {
+      "name": "Shekhar Kumal",
+      "role": "Finance Manager",
+      "bio": "Shekhar Kumal has over 10 years of experience in financial management, budgeting, accounting, and compliance within international development programs. He ensures smooth and efficient financial management at Teach For Nepal, embodying the organization's values and mission."
+    },
+    {
+      "name": "Sami Manandhar",
+      "role": "Project Manager (TFN Alumni)",
+      "bio": "Sami Manandhar joined Teach For Nepal as a fellow to explore and understand Nepal's diverse communities. His experience as a fellow motivated him to contribute to environmental education. He now returns to Teach For Nepal to help children become more aware of climate change and empower them to be part of the solution."
+    },
+    {
+      "name": "Jenisha Shakya",
+      "role": "Recruitment Manager (TFN Alumni)",
+      "bio": "Jenisha Shakya is an educator and youth development professional with experience in recruitment, leadership, and program management. She rejoined Teach For Nepal to inspire and recruit future leaders who share the vision of transforming education in Nepal, believing in the power of every individual to create ripples of change."
+    },
+    {
+      "name": "Asmita Guragain",
+      "role": "Recruitment Coordinator (TFN Alumni)",
+      "bio": "Asmita Guragain's journey with Teach For Nepal has been one of personal growth and societal impact. She is passionate about eradicating educational inequalities and advocating for the inclusion of dynamic young leaders in the public education system, ensuring every child has the chance to flourish."
+    },
+    {
+      "name": "Gaurab Ghimire",
+      "role": "Leadership Development Coordinator (TFN Alumni)",
+      "bio": "Gaurab Ghimire felt a strong desire to contribute beyond his Fellowship at Teach For Nepal. As a Leadership Development Coordinator, he is passionate about educational equity and committed to helping fellows thrive. He sees his role as a platform to grow professionally while contributing to the development of others."
+    },
+    {
+      "name": "Samikshya Kharel",
+      "role": "Leadership Development Coordinator (TFN Alumni)",
+      "bio": "Samikshya Kharel is a committed educator and advocate for educational equity. Her journey with Teach For Nepal began as an English Fellow, where she worked closely with students in under-resourced communities. As a Leadership Development Coordinator, she mentors and supports new Fellows, helping them create meaningful impact."
+    },
+    {
+      "name": "Lokesh Khadaka",
+      "role": "Leadership Development Coordinator (TFN Alumni)",
+      "bio": "Lokesh Khadaka is a purpose-driven community builder and advocate for quality education and youth leadership. As the Executive Coordinator at Teach For Nepal, he works closely with the Chief Executive Officer to advance the organization's mission. He is committed to building a more just and equitable future through education."
+    },
+    {
+      "name": "Hari Krishna Khatri",
+      "role": "Recruitment Coordinator",
+      "bio": "Hari Krishna Khatri started his career in teaching and later transitioned to the education sector. He joined Teach For Nepal, believing in the organization's vision of nurturing students as leaders. As a Recruitment Coordinator, he supports and inspires young leaders to join the TFN movement and shape Nepal's future."
+    },
+    {
+      "name": "Akriti Paudel",
+      "role": "Leadership Development Coordinator (TFN Alumni)",
+      "bio": "Akriti Paudel's passion for equitable education began with her two-year fellowship as a Teach For Nepal Mathematics Fellow. She now serves as a Leadership Development Coordinator, dedicated to nurturing and guiding high-potential fellows to create sustainable change in their classrooms and communities."
+    },
+    {
+      "name": "Amir Khokhali",
+      "role": "Data and IT Operations Associate",
+      "bio": "Amir Khokhali was inspired by TFN Fellows during his school years and now works for the organization. He aims to use his experiences and education to change the perspective of people in his community, showing that even kids from villages can turn challenges into achievements. He is committed to ensuring all children in Nepal receive an excellent education."
+    },
+    {
+      "name": "Sirjana Dhital",
+      "role": "Office Assistant",
+      "bio": "Sirjana Dhital moved to Kathmandu from her village in Dhading to be closer to her brothers. She has been working at Teach For Nepal since its inception, believing in the importance of providing all children with the opportunity to learn and have a bright future."
+    }
+  ],
+  "unstructured_chunks": [
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "LeapfrogEmployeeHandbook-2023\nAguidetoouremployees\nLeapfrogEmployeeHandbook",
+      "page": 0
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "TableofContents\n1.Introduction 71.1Applicability 72.CompanyVision,MissionandValues 72.1.LeapfrogVision 72.2.LeapfrogMission 72.3.LeapfrogValues 72.3.1.CustomerFocus 82.3.2.CelebrateEfforts 82.3.3.AccountableFreedom 82.3.4.BeRemarkable 82.3.5.EmbraceOpenness 83.AccountabilityofanEmployee 83.1.ApprovalAuthorityPolicy 83.2.CodeofConductandBusinessEthics 93.2.1.IdentityCard 93.2.2.Dresscode 103.2.3.Alcohol&Smoking 103.2.4.AcceptanceofGifts 103.3.ConflictofInterest 113.3.1.Processfordisclosureofconflictofinterest 133.3.2.SafeguardofCompany’sImage,FacilitiesandProperty 143.4.IntellectualPropertyRightPolicy 143.4.1.TrademarksandDomainNames 143.4.2.Copyrights 143.4.3.Patents/Technologies 153.5.ConfidentialityandOwnership 153.5.1.MediaInquiryPolicy 153.5.2.WrittenArticlesandProducts 163.5.3.SocialMediaPolicy 163.5.4.ExternalDataDisclosure 163.6.BusinessCommunications 174.Classificationofemployees 174.1RegularEmployment 18\n2LeapfrogEmployeeHandbook",
+      "page": 1
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "4.2Task-Based/Time-BasedEmployment 184.3Intern 184.4Trainees 184.5WorkingPractices 194.6EmploymentYear 194.7Attendance 194.7.1.Generalworkinghourguidelines 194.7.2.TimeLostandShortAttendance 204.7.2.1.TimeTrackingthroughWorklog 204.7.3.Deductionduetolatearrivalstotheirworksite 215.EmploymentBenefitsandFacilities 215.1.PaymentofSalaryandAllowances 215.2.Benefits: 225.2.1.Salaryandallowancesofemployee 225.2.2.SocialSecurityFund 225.2.3.FestivalAllowance 225.2.4.LaptopAllowance 235.2.5.LeapfrogBonusandAllowances 235.3.Facilities 235.3.1.Foodprovision 235.3.1.1.LunchBreak 235.3.1.2.SnackBreak 235.3.1.3.DinnerBreak 235.3.2.Arrangementfortransportation 235.3.3.Leave 245.3.3.1.DiscretionaryLeave 245.3.3.2.SickLeave 245.3.3.3.Bereavementleave 255.3.3.4.MaternityLeave 255.3.3.5.PaternityLeave 275.3.3.6.MenstruationLeave 275.3.3.7.Well-beingLeave 275.3.3.8.LWOP(LeaveWithoutPay) 275.3.4.SalaryAdvances 27\n3LeapfrogEmployeeHandbook",
+      "page": 2
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "5.3.5.PrizeandPerks 285.3.6.AnnualIncrement 285.3.7.Changeinexistingbenefits 285.3.8.CompanyHoliday 285.3.9.IncomeTax 286.Recruitment 287.Induction 297.1.Maintainpersonalfiles 298.AttendanceManagement 298.1.StandardLeaveProcess 298.2.ApprovalforLeave 308.2.1.AuthoritytoApproveleave 308.3.PlannedLeave(theleavesthatyoushouldpre-schedule): 308.4.UnplannedleaveincaseofEmergency: 308.5.SickLeaveApplication: 318.5.1.Reportingsicknessabsence 318.5.2.Recordingsicknessabsence 319.LeaveRecords 319.1.Absences 319.1.1.UnauthorizedAbsence 319.1.2.DisciplinaryProcedureforUnauthorizedAbsence 329.2.Absenceduetosickness 329.3.AnyOtherLeaveofAbsence 3210.Misconduct 3210.2.FormalDisciplinaryAction 3310.2.1.FormalDisciplinaryProcedure 3310.2.1.1.Warning 3310.2.1.2.Deductionofone-daysalary 3310.2.3.3.Withholdingtheannualsalaryincrementorpromotion 3410.2.3.4.Suspension 3410.2.3.5.Dismissal 3411.EmployeeServiceandSeparation 3511.1.ServiceTenure 3511.1.1.Calculationofservicetenure 36\n4LeapfrogEmployeeHandbook",
+      "page": 3
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "11.2.NoticePeriod 3612.ExitTypes 3612.1.Resignation 3612.2.Retirement 3712.3.Termination 3712.3.1TerminationofContract 3712.3.1.1.TerminationoftheWorkBasedandTimeBoundEmployment 3712.3.1.2.TerminationbyPoorPerformance 3712.3.1.3.TerminationduetoHealthReasons 3812.3.1.4.Death 3812.4.ExitProcedure 3912.4.1.ExitInterview 3912.4.2.Clearance 3912.4.3.WorkExperienceletter 3913.WorkplaceSafety 3913.1.EmployeePrivacy 4013.2.FairDealing 4013.3.EqualEmploymentOpportunity 4013.4.EmployeeDevelopment 4013.5.WorkplaceViolence 4013.6.IndustrialInjury 4014.CorporateBooksandRecords;FinancialReporting,AuditandInvestigation 4115.WorkplaceViolence 4116.BusinessTravelPolicy 4116.1.AirlineTravel 4216.2.TransportationExpenses 4216.3.DailyAllowances 4216.4.Accommodation 4316.5.IncidentalExpenses 4316.6.ReimbursementClaim 4316.6.1.Approval 4316.6.2.Reimbursement 44\n5LeapfrogEmployeeHandbook",
+      "page": 4
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Abbreviations\nSN Abbreviation FullForm\n1 SVP SeniorVicePresident\n2 IT InformationTechnology\n3 HRIS HumanResourceInformationSystem\n4 PTO PersonalTime-Off\n5 SSF SocialSecurityFund\n6 LWOP LeaveWithoutPay\n7 PAN PermanentAccountNumber\n8 BOD BoardofDirectors\n6LeapfrogEmployeeHandbook",
+      "page": 5
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "1. Introduction\nThisEmployeeHandbook(the“Handbook”)isacompilationofemploymentpolicies,practices,procedures,workrulesandbenefitsapplicablefortheemployeesandcurrentlyin effectatLeapfrogTechnologyNepalPrivateLimited(the“Company”and/or“Leapfrog”).Itisintendedtohelpfamiliarizeemployeeswithinformationaboutthegeneralworkenvironment.\nLeapfrogreservestherightatanytimeandwithinitssolediscretiontorevise,supplementorrescindanyofthetermsorbenefitsdescribed.Whileeffortswillbemadetoinformtheemployeeaboutanysignificantchanges,theemployeeshouldalwaysattempttoverifythecurrentstatusofanyparticularpolicystatedinthisHandbook.ItisimportanttobearinmindthatthisHandbookdoesnotconstituteanemploymentcontract,nordoesitconstituteaguaranteewithrespecttoanyofthetermsorconditionsstatedintheHandbook.\n1.1Applicability\nTheHandbookshallbe effectivefromFalgun2079andis applicableto alltheCompany’semployees.\n2. CompanyVision,MissionandValues\n2.1. LeapfrogVision\nInnovationengineforglobalimpact.",
+      "page": 6
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "1.1Applicability\nTheHandbookshallbe effectivefromFalgun2079andis applicableto alltheCompany’semployees.\n2. CompanyVision,MissionandValues\n2.1. LeapfrogVision\nInnovationengineforglobalimpact.\n● Innovation-theabilitytocreatenewwaysofdoingthings\n● Engine-asetofpeopleandpracticesfordoingthatrepeatedly\n● Impact-improvepeople’slives\n2.2. LeapfrogMission\nBearolemodeltechnologyLeapfrog.\n● ALeapfrogthatothercompaniesaspiretobe,andthatpeoplewanttobeapartof,\nbecauseofourinnovation,impact,influence,andculture.\n2.3. LeapfrogValues\nLeapfrogencouragesanenvironmentinwhichindividualsandgroupstakeresponsibilityforthecontinuousimprovementoftheirownskills,behaviorandcontributions.Inaddition,characteristicsandbehaviorsdisplayedbystaffwilldeterminethecultureofanorganizationthatiswhyemployeesshallalsoberatedontheirbehaviorasembodiedinLeapfrogValues.\n7LeapfrogEmployeeHandbook",
+      "page": 6
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Leapfrogdemonstratesthefollowing5corevalues.\n2.3.1.CustomerFocus\nOurcustomersdeserveworld-classinnovation,andwe’reproudtodeliverit.Wearedrivenbythecommitmenttobuildexceptionalproducts.\n2.3.2.CelebrateEfforts\nPeopleareatthecenterofallourdecisions.Weappreciateandhonorourpeopleandtheteam'scollectiveeffort.Wecelebratewins–bigandsmall–andembraceequityinouractions.\n2.3.3.AccountableFreedom\nWeenjoytheutmostfreedomwhilemaintainingourself-disciplineandtheelusivebalancebetweenflexibilityandresponsibility. Weliketowork,havefunandyetstayaccountableforthefreedomweget.\n2.3.4.BeRemarkable\nWearepassionateaboutwhatwedoandaimforcontinuousimprovementandgrowth.Wepushourselvestonewheights—beitskills,career, orjustaproblem.Weencouragelearn-it-alls,notknow-it-alls.\n2.3.5.EmbraceOpenness\nWebelievesharingourproblemsandfacingthemtogetherhelpsbuildasafespacewherewefeelacceptedandrespected.Wevalueuniqueperspectivesandexperienceswhiletakingriskswithoutfearingfailure.\n3. AccountabilityofanEmployee",
+      "page": 7
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "3. AccountabilityofanEmployee\nEmployeesshallfaithfullyandpunctuallyreporttoLeapfrogoritsauthorizedofficialsforallequipment,tools,goods,intellectualorotherpropertyetc.,whichtheyshallreceiveasemployeesofLeapfrogonbehalf/accountofLeapfrogorofanymemberofLeapfrog.\n3.1. ApprovalAuthorityPolicy\nEmployeesmustcomplywithLeapfrog’s approvalauthoritymatrix.YoumaynotenterintoanycontractorcommitLeapfrogresourcesunlessyouareauthorizedtodosounderthatpolicy.\n8LeapfrogEmployeeHandbook",
+      "page": 7
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "3.2. CodeofConductandBusinessEthics\n● Leapfrogexpectsthehigheststandardsofconductfromitsemployeesandrepresentatives,requiringthemtoconductthemselvesinawaythatensureshighstandardsofserviceandthegoodreputationofLeapfrogaremaintainedatalltimes.\n● Employeesareexpectedto behonestandethicalindealingwitheachother, withclients,suppliersandallotherthirdparties.Doingtherightthingmeansdoingitrighteverytime.\n● EmployeesmustperformthedutiesasanEmployeeand/oraManagerinaccordancewiththerequirementsofLeapfrog,fulfillyourduties,observeandabidebyallreasonableinstructionsoftheirteamleaders/managersthatrelatetoundertakingLeapfrogduties.",
+      "page": 8
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Employeesmustnotengageinfraud,directlyorindirectly, inanywayforanyreason,orsolicit,indulge,colludewithotherstoengageinfraud,andmustnottakeadvantageofyourauthorityorpowergrantedbyLeapfrogoryourposition(includingbutnotlimitedtothewebsiteresourcesandcustomerresourcesandinsideinformationof Leapfrog)to seekimproperinterestsforyourselforyourRelatedParty(ies),whethersuchinterestsareexistingproprietaryinterestsorpotentialcompetitiveadvantage(s).\n● EachEmployeeshallupholdthevaluesofLeapfrog.Ifyoufindanyteammemberengaginginfraudorseekingimproperinterests,youshouldreportthistoyoursupervisororthePeopleManagementrepresentative.If, in yourjudgment,therequirementorinstructionofyoursupervisormaycauseaviolationoftheCode,youshallseekhelpfromthesuperiorofyoursupervisororthePeopleManagementrepresentative.",
+      "page": 8
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● If youarea Manager/Supervisor, youmustperformthedutiesin accordancewiththerequirementsof Leapfrogandmustimproveefficiency, controlrisksandpromoteourcorporateculturewhileleadingyourteamtoachievebusinessobjectives.\n● IfasaManager/Supervisor, youarefoundtohavebeengrosslynegligentand/orcomplicitinactionsundertakenbyyourteammemberswhichviolatecorporateregulations,Leapfrogwilldetermineyouraccountabilityaccordinglyandtakedisciplinaryaction,uptoandincludingterminationofyouremployment.\n3.2.1.IdentityCard\n● Leapfrogwillprovideanidentitycardtoitsemployees.Identitycardsshouldhaveinformationlikeemployeename,cardissueddatealongwithanemployeeclearphotograph.IdentitycardsshouldbeverifiedbyandsignedbytheSVPalongwiththeLeapfroglogoandpostaladdress.\n● Employeesaretousethiscardwhileenteringcompanypremises.\n9LeapfrogEmployeeHandbook",
+      "page": 8
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● ThiscardremainsthepropertyofLeapfrogandmustbereturnedupontheterminationofemployment.LostordamagedidentitycardsshouldbeimmediatelyreportedtoLeapfrog.\n3.2.2.Dresscode\nAllemployeesareobliged  to   demonstrate   professionalism  and   business-like  attitude  through  their  appearance.\nThefollowingguidelinesmustbealwaysobservedregardlessoftheformalityofdressrequiredinanysituation:\n● Allemployeesmustbe cleanandwell-groomed . Groomingpreferencesordictatesbyreligion,ethnicity  etc.  are  not  restricted  but  should  always  be  well-presented.\n● Allclothesmustbe cleanandingoodrepair . Discerniblerips,tearsorholesarestronglydiscouraged.\n● Allclothesmustbe appropriatefortheoffice . Clothesworntypicallyinworkouts,outdooractivities  or  recreation  ventures  are  not  allowed.\n● Allclothesmust projectprofessionalism .Clothesthatare toorevealingorinappropriateforwork  are  prohibited.\n● Employeesshouldavoidclotheswithstampsthatmightbeperceivedasoffensiveorinappropriate.",
+      "page": 9
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Allclothesmust projectprofessionalism .Clothesthatare toorevealingorinappropriateforwork  are  prohibited.\n● Employeesshouldavoidclotheswithstampsthatmightbeperceivedasoffensiveorinappropriate.\nEveryoneissuggestedtodress SmartCasual forworkanddependingontheoccasion,shoulddressBusiness  Casual  for  important  meetings  and/or  presentation\nInsupportofthedresscode,allemployeesareexpectedtodressneatly, appropriatelyforworkwhilemaintainingconfidenceintheservicesLeapfrogprovides.\n3.2.3.Alcohol&Smoking\n● NoEmployeeshallconsumeanyalcoholicdrink,andnoEmployeeundertheinfluenceofalcoholshouldenterLeapfrogpremises.NoEmployeemaydrinkalcoholduringlunchhourduringworkingdays.\n● NoEmployeeshallpossessoruseanyprohibiteddrugonpremisesof,oratanyeventorganizedbyLeapfrog.\n3.2.4.AcceptanceofGifts\n● Acceptingcashor cashequivalents,includingcheques,moneyorders,vouchers,giftcertificates,loans,stockorstockoptions,inconnectionwithLeapfrog’s businessisnotacceptableinanycircumstances.",
+      "page": 9
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Acceptingcashor cashequivalents,includingcheques,moneyorders,vouchers,giftcertificates,loans,stockorstockoptions,inconnectionwithLeapfrog’s businessisnotacceptableinanycircumstances.\n10LeapfrogEmployeeHandbook",
+      "page": 9
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Anyemployeewhois foundguiltyofpayingorreceivingbribeswillbeimmediatelyterminatedandreported,aswarranted,totheappropriateauthorities.Akickbackorbribeincludesanyitemintendedtoimproperlyobtainfavorabletreatment.\n● Whena gift,meal,entertainmentor othercourtesyis providedto a thirdpartyinconnectionwithLeapfrogbusiness,it mustbelegal,reasonable,appropriateunderthecircumstances.Further, it hasto beapprovedbytheemployee’s manager. Innoeventshouldthey putLeapfrogtheCompanyor themselvesin a positionthatwouldbeembarrassingif thegiftweremadepublic.NeitheranemployeenortheirRelatedPartymayfurnishoroffertofurnishanygiftorentertainmentthatisofmorethantokenvalueor thatgoesbeyondthecommoncourtesiesassociatedwithlocalcustomarybusinesspractices.\n● Businessgiftsandentertainmentexpensesmustbeprocessedthroughproperbudget,approval,recordkeepinganddocumentationprocesses.\n3.3. ConflictofInterest",
+      "page": 10
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Businessgiftsandentertainmentexpensesmustbeprocessedthroughproperbudget,approval,recordkeepinganddocumentationprocesses.\n3.3. ConflictofInterest\nLeapfrogconflictof InterestPolicyrequiresall Employeesto avoidsituationswheretheirpersonalinterestsmight,ormightappearto,beinconflictwiththeinterestsofLeapfrog.AllLeapfrogemployeesareexpectedto familiarizethemselveswiththecontentof thepolicy.Employeesarerequiredtodiscloseanyactualorpotentialconflictofinterestassoonastheyarise,andwhenrequiredbythePeopleManagementarea.TheLeapfrogPeopleManagementareamustmaintaina conflictlogto recordthedetailsofallactualorpotentialconflictsofinterestsdisclosedandtheactiontakenin respectofthem.EmployeeshavetheobligationtoconductLeapfrogbusinessin anhonestandethicalmanner, includingtheethicalhandlingofactualorpotentialconflictsofinterestbetweenpersonalandbusinessrelationships.",
+      "page": 10
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Whileitisnotpracticaltolistallpossiblesituationsthatmayresultinaconflictofinterest,theexamplesgivenbelowaresomesituationsthatareconsideredinconflictwiththeinterestofLeapfrogandmustbeavoided:\n● Employeesareprohibitedtoinvolveinanyactivitythatislikely, directlyorindirectlytobeinconflictwithLeapfrog’sinterests.\n● Employeesareprohibitedfrominvolvementinanyotheremployment,businessoractivities,evenif part-time,thatwilltakethemawayfromfulfillingtheirresponsibilitiestoLeapfrogeffectivelyand/orpreventthemfromactinginthebestinterestofLeapfrog.\n● Employeesmustgivepriorwrittennoticeto theirleadandthePeopleManagementimmediatelyafterbecomingawareofanypotentialconflictofinterest.WithoutthepriorwrittenapprovalofthePeopleManagement,youmaynotparticipateinanyprocurementordecision-makingprocessorothersimilarprocesswhichinvolvesaRelatedParty(Whichmay\n11LeapfrogEmployeeHandbook",
+      "page": 10
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "beofconflictingnature)oftheirsevenif suchprocessdoesnotconstituteorgiverisetoRelatedPartyTransactionsundertheCode.\n● Employeesarenotencouragedtohavea shoponthewebsiteofanyplatformofLeapfrogunlessLeapfroghasgranteditsapprovalandconsent.Shouldanemployeewishtodoso,orhavea shopon Leapfrog,theywillbe requiredto declareit to theirleadandPeopleManagement.\n● NoEmployeeshallinvestinanySupplierofLeapfrog.AnyEmployeewishingtoinvestinaBusinessPartner, MerchantorCompetitorofLeapfrogmustobtainapprovalfromLeapfroginadvanceandmayonlyinvestafterLeapfroghasexplicitlygranteditsapprovalandconsent.\n● Inanycaseemployee’s family, relativesandfriendsshouldnotbeacampaignwinner,ortherecipientof anyfreeitemsorsubsidiesthatareprovidedwiththeintentionofgoingtounrelatedorunaffiliatedLeapfrogcustomers.\n● Employeesareprohibitedfromacceptingpayments,commissions,offers,favors,extravagantentertainment;materials,merchandise,servicesorrepairsat unreasonablylowornocost,giftsoradvancesinconnectionwiththeLeapfrogbusiness.",
+      "page": 11
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● NoEmployeeshallbeemployedby, orprovideservicesto,a Supplier, BusinessPartner,MerchantorCompetitorofLeapfrog.\n● AnEmployeeandtheirSpouse/Siblings/relativesmaynothaveadirectreportingrelationshipordirectlyreporttothesamelead.\n○ Spousesshallbeemployedonlywhentheyhavebeensubjecttotheusualcompetitiverecruitmentprocessbutnotinanareamanagementrelationship.However, Leapfrogdoesnotencourageahusband/wifeteamtoworkinthesameteamintheorganization.\n● AnyColleagueRelationshipcoupledwiththefollowingprofessionalrelationshipsconstitutepotentialconflictofinterestthatshouldalsobereportedinatimelymanner:\n○ Thepartieshaveanindirectreportingrelationship;\n○ Onepartymayhavean influenceon thedecisionwithrespectto theotherparty’semploymenttermsandconditions(suchas an offerof employment,compensation,promotion,jobtransfer, disciplinaryactions,etc.)",
+      "page": 11
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "○ Onepartymayhavean influenceon thedecisionwithrespectto theotherparty’semploymenttermsandconditions(suchas an offerof employment,compensation,promotion,jobtransfer, disciplinaryactions,etc.)\n○ Becauseofjobresponsibilities,arelationshipofmutualrestrictionorsupervisionexistsbetweenthepartiesi.e.,if thereis a relationshipbetweenleadandsubordinateorbetweenemployeeswhereconfidentialityneedstobemaintained.\n○ WhilstColleagueRelationshipsarenotstrictlyprohibited,theymayleadtoconflictsofinterest.Leapfrogreservestherighttotakeappropriatestepstoeliminatesuchconflictof\n12LeapfrogEmployeeHandbook",
+      "page": 11
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "interest(includingbutnotlimitedto transferringtheEmployeeto anotherposition,changingscopeofwork,oreventerminationoftheemploymentrelationship).\n● Useofinsideinformation/insidertradingtogainpersonalbenefitforself,orothers.IfyouareinpossessionofmaterialnonpublicinformationaboutLeapfrog,anddisclosing,withoutproperauthorityandapproval,anyofLeapfrog’sConfidentialInformation.\n● Usingthepositionin theLeapfrogto influencedecision-makingregardinghiringand/ordoingbusinesswithanEmployeeand/ortheirdependentfamilymembers.Thisalsoincludessponsoringanybusinessoractivitiesdonebythesepersons.\n● UsingLeapfrogfunds,locationsorassetsforpolitical/religiousactivitiesandcontributionstosuchparties/persons.\n3.3.1.Processfordisclosureofconflictofinterest\n● ImmediatelydiscloseconflictorpotentialconflictofinterestinwritingtotheLeadofPeopleManagement.",
+      "page": 12
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "3.3.1.Processfordisclosureofconflictofinterest\n● ImmediatelydiscloseconflictorpotentialconflictofinterestinwritingtotheLeadofPeopleManagement.\n● If anemployee’s dependentfamilymemberhassubmitteda proposalorquotationseekingbusiness,sponsorship,vendorrelationship,consultingassignment,orotherassociationwithLeapfrog,the employeemustimmediatelydisclosethisinformationin writingto thereportingandteammanagerandLeadofPeopleManagement.\n● Ifthereisexisting,ortheredevelopslater, afamilyorothercloserelationshipbetweentwoemployeeswithinthesamedepartment,theymustdisclosethisimmediatelytotheareaHeadsothatthereportingrelationshipand/orareacanbechanged.",
+      "page": 12
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Iftheemployeeisnotsurewhethera situationcouldbeconsideredaconflictofinterestornot,thentheyshouldaskthePeopleManagementTeam.Incaseanexceptionisbeingsought,theemployeemustdisclosethecompletecircumstancespriorto actingandrequestforapproval.PeopleManagementwillreviewthesituationandseekSVP’s approval.Writtenapprovalassuresappropriatemanagementawarenessandprovidesthe employeewithdocumentationofdisclosure.\n● Consequencesof failureto complywiththerequirementswithrespectto submissionofdeclarationofconflictofinterestsituation(s)forfilingandapprovalareasfollows:\n○ EveryEmployeeofLeapfroghastheobligationtodeclareconflict-of-interestsituationsinaccordancewiththeprovisionsabove.\n○ If an employeefailsto complywiththeprovisionsabove,seriouslyviolaterelevantprovisionsregardingconflictsofinterest,orfailtosubmitatrueandcompletereportof\n13LeapfrogEmployeeHandbook",
+      "page": 12
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "anyactualorpotentialconflict-of-interestsituationforfilingorapproval,theywillbesubjecttodisciplinaryaction.\n3.3.2.SafeguardofCompany’sImage,FacilitiesandProperty\nEveryemployeemustsafeguardLeapfrogpropertyfromlossortheft,andmaynottakesuchpropertyforpersonaluse.Leapfrogpropertyincludesconfidentialinformation,intellectualproperties,software,computers,officeequipment,andsupplies.YoumustappropriatelysecurealltheCompanypropertywithinyourcontroltopreventitsunauthorizeduse.\nLeapfrog’semail,internetandinternalsystemsaretobeusedprimarilyfortheLeapfrog’sbusiness.Innoeventshallthesystemsbeusedforsendingorreceivingdiscriminatoryorharassingmessages,chainletters,materialwhichisobsceneorinbadtaste,forcommercialsolicitations,forusingsocialnetworkingsitesorinanywaythatwouldotherwiseviolatethisStatement.\n3.4. IntellectualPropertyRightPolicy\n3.4.1. TrademarksandDomainNames",
+      "page": 13
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "3.4. IntellectualPropertyRightPolicy\n3.4.1. TrademarksandDomainNames\nEmployeesshoulduseLeapfrogtrademarkanddomainnameonlyin connectionwiththeGroup’s businessandinconformitywithLeapfrog’scorrespondingusageguidelinesandrelevantprocedures.Employeesmust advisetheir supervisoror the CorporateAffairs andCommunicationsof instancesof unauthorizedapplicationforor registrationor useof anytrademark,logo,name,domainnameorwebsiteaddressofLeapfrogandanyotherinfringingacts.Withoutthepriorwrittenapprovalof Leapfrog,youmaynottransfer, sell,licenseorotherwisedisposeofanytrademarksordomainnames.Ifthereisanyneedtoacquiretrademarksor domainnamesthatarerelevantto Leapfrogfromthirdparties,pleaseconsultwiththeCommunicationsandPeopleManagementarearegardingtheprocess.\n3.4.2.Copyrights",
+      "page": 13
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "3.4.2.Copyrights\n● ItisaviolationofapplicablelawsandofLeapfrogpoliciestomakeunauthorizedcopiesoforderivativeworksbaseduponcopyrightedmaterialsorpicturesorworkcontainingpersonalimage(rightofportrait).Theabsenceofacopyrightnotice,freelydownloadableandreproducibleworks,or open-sourcesoftwaredoesnotnecessarilymeanthatthematerialsarenotcopyrighted.Leapfroglicensestheuseofmuchofitscomputersoftwarefromoutsidecompanies.In mostinstances,thiscomputersoftwareis protectedbycopyright.\n● NoEmployeeshallmake,acquire,reproduceoruseunauthorizedcopiesofcomputersoftware.Further, theabsenceofa copyrightnoticein relationtoanyarticle,picture,artwork,ormusical,audioorvisualproductsobtainedfromtheInternetorfromofflinesourcesdoesnotnecessarilymeanthatsucharticle,picture,artwork,ormusical,audioor\n14LeapfrogEmployeeHandbook",
+      "page": 13
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "visualproductisnotcopyrighted.Withoutauthorization,noEmployeemayreproduce,obtainor useunauthorizedarticles,pictures,artworks,or musical,audioor visualproducts.Anyquestionsconcerningcopyrightsshouldbe directedto the PeopleManagementarea.\n3.4.3.Patents/Technologies\nPatents/technologiesareveryimportantassetsofLeapfrog.Withrespecttopatent/technologymattersin relationto thebusiness,youshouldconsulttheRelevantarea.Withrespecttopatent/technologyprotectionproceduresinaccordancewiththeestablishedprocess,anemployeemustnotifytheirleadortheMarketingandLegalareaofanyunauthorizedapplicationfor, orregistrationoruseof,Leapfrog’s patents/technologiesthatconstitutesinfringement.Theymustnottransfer, sellorotherwisedisposeofanyofLeapfrog’s patents/technologies.Ifthereisanyneedto acquirepatents/technologiesthatarerelevantto Leapfrogfromthirdparties,pleaseconsultwiththeCorporateAffairsandcommunicationsandPeopleManagementarea.\n3.5. ConfidentialityandOwnership",
+      "page": 14
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "3.5. ConfidentialityandOwnership\nEmployeesarerequiredtoprotectconfidentialinformationrelatingtobusinessactivityoranyotherimportantinformationrelatingtotheaffairsofLeapfrog.\nAnemployeeshallnotuseorrevealto othersLeapfrog,customerorsupplierconfidentialorproprietaryinformation,exceptasauthorizedbytheirseniormanagementoraslegallyrequired.Thisincludesbusinessmethods,pricingandmarketingdata,strategy, computercode,screens,forms,experimentalresearch,andinformationaboutLeapfrog’s current,formerandprospectivecustomersandemployees.\nLeapfrogprohibitsEmployeesfromusinginsideinformation(regardlessofwhetheritpertainstoLeapfrogor to anothercompany)obtainedthroughtheirpositionin or employmentwithLeapfrogtodealinstockorothersecurities,whetherbythemselvesorthroughtheirRelativesorotherpersonsorentities.",
+      "page": 14
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Theuseofinsideinformationforpersonalpurposesis unethicalandpossiblyillegal,andisstrictlyprohibited.Noemployeeshallcircumventthisprohibitionbyactingthroughathirdpartyorbydisclosinginsideinformationtoothersfortheiruse.Anyinvention,discovery, researchreport,patents,designetc.developedwhetherinsideofficehoursoroutsideofficehoursshallbethepropertyofLeapfrog.\n3.5.1.MediaInquiryPolicy\nAllpublicrelationactivitiesandmediarequestswillbecoordinatedandmanagedto ensuredisseminationofLeapfrog’s externalcommunicationis accurate,appropriateandinlinewithLeapfrog’sbrand.\n15LeapfrogEmployeeHandbook",
+      "page": 14
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Leapfrog’s employeesarenotallowedtoissue/givepressstatements,giveinterviews,statements,or otherinformationto anyformofmediaonanymattersconnectedwithLeapfrog.WhenmembersofthemediacontactLeapfrogemployeestodiscussanythingthatpertainstoLeapfrog,thoseemployeesshoulddirectthemediatothePeopleManagementareawhowillhandleallrequestsinaprompt,courteousandprofessionalmanner.\nAsviolationofthispolicyhasthecapacitytoprejudicetheinterestandreputationofLeapfrog,inthisregardthisactionwillbeconsideredfordisciplinaryaction.\n3.5.2.WrittenArticlesandProducts\nReports/articles/Productswritten/producedby worker/employeerelatingto Leapfrogprogrammesshouldbe submittedto theSVPforapprovalandinterviewsclearedpriortohandoverorpublicationorothercirculationtotheclients.Products,ReportsandotherwrittenmaterialareconfidentialtoLeapfrogInternationalandshouldnotbedivulgedwithoutpermissionfromtheSVP.\n3.5.3.SocialMediaPolicy",
+      "page": 15
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "3.5.3.SocialMediaPolicy\nRegardlessof whetheror nota Leapfrog’s employeeis representingLeapfrogin anofficialcapacitythroughsocialmedia,theexpectationfromtheemployeeisthattheyconductthemselvespositivelytoreflecttheorganization.\nInappropriatecommunicationseventhoughmadeonanemployee’sowntimeandresourcesshallbegroundsforcorrectiveactionuptoandleadingtoimmediatetermination.\nEmployeesshallnotengagewithsocialmediaattimesorinwaysthatshallinterferewiththeirworkplace.\n3.5.4.ExternalDataDisclosure",
+      "page": 15
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Employeesshallnotengagewithsocialmediaattimesorinwaysthatshallinterferewiththeirworkplace.\n3.5.4.ExternalDataDisclosure\nEveryemployeemustsafeguardLeapfrogpropertyfromlossortheft,andshallnottakesuchpropertyforpersonaluse.Leapfrogpropertyincludesconfidentialinformation,intellectualproperties,software,computers,officeequipment,andsupplies.TheymustappropriatelysecureallLeapfrogpropertywithintheircontroltopreventitsunauthorizeduse.Leapfrog’semail,internetandinternalsystemsaretobeusedprimarilyforLeapfrogbusiness.Innoeventshallthesystemsbeusedforsendingorreceivingdiscriminatoryorharassingmessages,chainletters,materialwhichisobsceneorinbadtaste,forcommercialsolicitations,forusingsocialnetworkingsitesorinanywaythatwouldotherwiseviolatethisStatement.\nEmployeesarerequiredtoobservetheDetailedRulesofLeapfrogforExternalDataDisclosureandanyguidelinesoncorporateinformationdisclosure(bothexternallyandinternally)asmaybeadoptedbyLeapfrogfromtimetotime.Youmustdeliveralldocumentsreasonablyrequired",
+      "page": 15
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "16LeapfrogEmployeeHandbook",
+      "page": 15
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "byLeapfrogtruthfully,accurately, completelyandinatimelymanner, includingpersonalinformationrequestedbyLeapfrog,accountingrecords,expenditureinformation,invoices,vouchers,travelandexpensereports;andallrequireddeclaration/reviewandapproval/filing/authorizationinformation,allbusinessinformationandanyotherbusinessrecords;andalldocumentationmustbedulyauthorized,ifrequired.\n3.6. BusinessCommunications\nAllbusinesscommunicationsshouldbeclear, truthfulandaccurate.Businesscommunicationsshallbecomepublicthroughlitigation,governmentinvestigationsandthemedia.Employeesshouldtakecareto avoidexaggeration,colorfullanguage,guesswork,legalconclusionsorderogatoryremarksorcharacterizationsofotherpeopleandcompanies.Thisappliestoalltypesofcommunications,includingemails,instantmessagingand“informal”notesormemos.",
+      "page": 16
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Employeesmusttakeall necessarymeasuresto securetheircomputer/laptop/cellphonepasswords.If theyhaveanyreasontobelievethattheirpasswordorthesecurityofLeapfrogcomputer/laptop/cellphoneorcommunicationresourceshasinanymannerbeencompromised,theymustchangetheirpasswordimmediatelyandreporttheincidenttotheITarea.AllofthecomputingresourcesusedtoprovidecomputingandnetworkconnectionsthroughoutLeapfrogarethepropertyof Leapfrogandareintendedforuseby LeapfrogEmployeesto conductbusiness.To theextentpermittedby law, allemails,voicemailandpersonalfilesstoredonLeapfrogcomputers/laptops/mobilephonesareLeapfrog’s property, andLeapfroginitssolediscretionshallreviewanyfilesorcommunications(includingemails,cellphonemessagesandintranetmessages).\n4. Classificationofemployees\nLeapfrogintendsto clarifythedefinitionof employmentclassificationsso thatemployeesunderstandtheiremploymentstatusandbenefiteligibility. Allemployeeswillhavea writtencontract(EmploymentContract).",
+      "page": 16
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Leapfrogintendsto clarifythedefinitionof employmentclassificationsso thatemployeesunderstandtheiremploymentstatusandbenefiteligibility. Allemployeeswillhavea writtencontract(EmploymentContract).\nTheemployeeshallreceivean employmentcontractafteracceptingtheoffer letterfromLeapfrog.TheContractshalloutlinebutisnotlimitedto:Contract\n● Theeffectivedateofemployment,\n● PositiontitleandPeopleManagementlevel,\n● Placeofassignment,\n● Theareaofassignment,\n17LeapfrogEmployeeHandbook",
+      "page": 16
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Area/Teammanager\n● Thesalaryandotherbenefits,\n● Otherrelevanttermsofemploymentasrequired.\nThecontractbecomesvalidonlyaftersignaturebytheemployeecandidateanddesignatedappointmentauthority. Theappointmentofanewemployeeshalltakeeffectfromthedateonwhichtheemployeememberstartstoperformtheirduties.Ifanystatementsordocumentsgivenbytheemployeeforthepurposeofappointmentarefoundtobeincompleteorincorrect,oranyvitalinformationprovidedisfoundtohavebeensuppressed,Leapfrogcanterminatetheservicesoftheemployeeatanytime.\nLeapfroghiresitsemployeesunderoneofthefollowingemploymentcategories:\n4.1RegularEmployment",
+      "page": 17
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Leapfroghiresitsemployeesunderoneofthefollowingemploymentcategories:\n4.1RegularEmployment\nEmployeeshiredunderregularemploymentarerequiredto undergothreemonths(uptosixmonths)probationaryperiodbeforetheyareconfirmedto thepost.Duringtheprobationaryperiodthe employeewillbe underscrutinyandcanbe dismissedif it is assessedthatperformancewaspooratthediscretionofLeapfrog.Thisemploymenttypeisusedforpositionsofapermanentnature.Employeesunderthisemploymentcontractareentitledtosocialsecurityfund,festivalallowancesandinsurancebenefitsandarepaidasalarythroughthepayrollsystem.\n4.2Task-Based/Time-BasedEmployment",
+      "page": 17
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "4.2Task-Based/Time-BasedEmployment\nAnemployeeishiredeitherforapredeterminedtermforcompletionofspecifictaskorserviceorfora fixedtermcontract.ThetermsofservicearefixedbycontractheldbetweenemployeeandLeapfroganduponcompletionofthetask/fixedterm,theemploymentcomestoanend.However, thecontractperiodmaybeextendedsubjecttomutualconsentbetweentheemployeeandLeapfrog.Employeesunderthisemploymentcontractareentitledtoprovidentfund,gratuity,festivalallowancesandinsurancebenefitsandarepaidasalarythroughthepayrollsystem.\n4.3Intern\nInternsarehireduponenteringintoanagreementwiththeeducationalinstitutionpursuanttotheapprovedsyllabus.Internsshallnotbeengagedinworkexceeding8hoursadayand48hoursaweek.\n4.4 Trainees\nTraineesarehiredforatrainingperiodnotexceeding1yearwheretheyaretrainedandengagedinworkforsuchduration.AlltraineesareeligibleforprovidentfundandothersocialsecurityBenefitsgratuitypaymentandfestivalallowance)fromtheirfirstdayoftraining.TheCompany\n18LeapfrogEmployeeHandbook",
+      "page": 17
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "is notobligedto appointthetraineeasa regularemployeeuponcompletionofthetrainingperiod.However, ifthetraineeisappointed,theprobationperiodshallnotbeapplicableincaseoftrainee.\n4.5WorkingPractices\nEmployeemanagementwillbedonebytheconcernedreportingandteam-managerinaccordancewiththeagreedpoliciesandpractices.Thisincludesworkinghours,discipline,codeofconductandconflictofinterest.\n4.6EmploymentYear\nTheemploymentyearbeginsfromthemonthofShrawan.Allcalculationsregardingsalary,allowances,leave,andotherbenefitsarebasedonthebasisofNepalifiscalyearcalendar.\n4.7Attendance",
+      "page": 18
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "4.6EmploymentYear\nTheemploymentyearbeginsfromthemonthofShrawan.Allcalculationsregardingsalary,allowances,leave,andotherbenefitsarebasedonthebasisofNepalifiscalyearcalendar.\n4.7Attendance\nAttendanceisacrucialindicatorthatdenotesaccountabilityinourfreedom.Thisalsohelpsusequipouroperationstostrivetoberemarkable.Employeeswhofailtoattendworkregularlyandpunctuallyshallbesubjectedtodisciplinaryactionalongwithpaydeductions/leaveadjustmentsasdeemednecessarybythemanagement,itincludesbutisnotlimitedtolateattendanceand/ornoshow. AnemployeewhofailstoreportfordutywithoutapprovalfromtheArea/TeamManagershallbesubjecttodisciplinaryaction.\nThesimplerulethatwehaveis:\n● Bemindfulofstartingyourshiftontime.\n● Updatedailyattendancethroughthecompanyassignedcommunicationandattendancetoolswithin2hoursofshiftstart.\n● Thesystemwillrecognizethemissingattendanceas‘LeaveWithoutPay’forthegivendayifnotsubmittedwithin4hoursofshiftstart.",
+      "page": 18
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Thesystemwillrecognizethemissingattendanceas‘LeaveWithoutPay’forthegivendayifnotsubmittedwithin4hoursofshiftstart.\n● RespectiveTeamLeads,ProjectManagers,TeamManagers,andLeaveissuersthroughthecompany'sattendancedashboardcanviewtheirteamsaswellaspersonalmissedattendanceandactuponthesame.\n4.7.1.Generalworkinghourguidelines\n● WorkinghourswillbegovernedaccordingtotheoperationalrequirementsofLeapfrog,andcannotbealteredwithoutthewrittenapprovalofSVP. ThespreadofworkinghoursacrossgroupcanbeamendedbytherespectiveLeadofareaprovidedthatthetotalnumberofmandatoryhourseachweekremainsunchanged.\n19LeapfrogEmployeeHandbook",
+      "page": 18
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Leapfrogreservestherighttochangethestarting/endingtimeofshiftasperoperationalrequirementswhennecessary.\n● RecordsofattendancemustbescrutinizedbytheLeadofareaatregularintervals.\n● Employeeswhofailtoadheretothepolicyandtimingasrequiredbytheirrespectiveareaswillrenderthemselvesliabletocorrectiveand/ordisciplinaryactionasdeemednecessarybythemanagement.\n● Hoursofworkaregovernedbythenatureofanemployee’sdutiesattheirplaceofworkandnotbythegradeoftheemployees.\n● EmployeesarerequiredtoworkaccordingtoLeapfrog’sbusinessrequirementsinorsplitdutyshiftoranycombinationaccordingtooperationalrequirementsasassignedbytheArea/TeamManager.\n● Duetothediversificationandareaoperationalneeds,employeescanbeplacedinvariousrosterpatterns.WheretherosterpatternrequirestheemployeetoworklongerorshorterhoursperweektheLeadofareamustensurethatoverthemonthincludinganyleaveperiod,employeesconformtoworkingtherequirednumberofhourseverymonth.\n● MisrepresentationinexcessworkinghoursshallbegovernedbyDisciplinaryPolicy.",
+      "page": 19
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● MisrepresentationinexcessworkinghoursshallbegovernedbyDisciplinaryPolicy.\n4.7.2.TimeLostandShortAttendance\n4.7.2.1.TimeTrackingthroughWorklog\nOurtimetrackingsystemincompanyassignedHRIS,Vyaguta’sworkloghelpsusunderstandtheirteammembers’effortsandmaintaintransparencyandaccountabilityindoingso.WetrackthetimeweinvestindifferentprojectsinVyaguta’sWorklogusingasmuchdetailaspossiblewhendocumentingwhatwedo.\nWorklogssystemfeatures:\n● Actualreflectionsofworkperformed.\n● Coverageofaminimumof8hoursperdayand40hoursperweekofwork(unlessleavesareapproved).Daily8hourscanconsistofinternalproductivemeetings.Eventsandothertangentformalgatheringsarebestkeptunder5hoursperweek.\n● Weeklyworklogfreezingsystemwhichensurestimelycommunicationwithintheteamandwithourclientsregardingourworkprogress.Worklogislockedonthefollowingweek’sTuesdayandonthelastdayofthemonthwhichcannotbechangedthereafter.\n20LeapfrogEmployeeHandbook",
+      "page": 19
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Automaticallytreatemptyworklogsas‘LeaveWithoutPay’whichcanbeoverriddenthroughthevalidationofrespectiveProjectManagers,TeamLeads,TeamManagerstoPeopleManagement.\n● PersonalTimeOff(PTO),whichisavailabletohandlecriticalpersonalmatterswhichshalloccurinconvenientlyduringworkdays,andisbestkeptunder2hours.Ifyouhaveworkedafterthebreaktocompensateforthehours,PTOshouldnotbeconsidered.\n● Employeeswhofailtoattendworkregularlyandpunctuallymaybesubjectedtodisciplinaryactionalongwithpaydeductions/leaveadjustmentsasdeemednecessarybythemanagement,itincludesbutnotlimitedtolateattendanceand/ornoshow. AnemployeewhofailstoreportfordutywithoutapprovalfromthereportingManagermaybesubjecttodisciplinaryaction.",
+      "page": 20
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Itisabasicresponsibilityofareportingmanagerformonitoringemployeeattendanceandtakeappropriateactions.Incaseanyemployeeiscominglateorleavingearlyonaregularbasis,ameetingcanbearrangedwiththeemployeetodiscussanyissuefacedbyanemployee.PeopleManagementTeamcanbeapproachedincasethereisanydisciplinaryissueagainstanemployee.\n4.7.3.Deductionduetolatearrivalstotheirworksite\n● Employeesareexpectedtoadheretoofficetimings.Agracetimeof15minutesispermittedafterwhichitwillbetreatedas“LateComing”.Thisislimitedto3latemarkseverymonth.Foreverylatecomingthereafter,employee'sattendancewillbeconsideredas'halfworkingday'i.e.halfdayleavededuction.\n● EmployeesengagedintheirstudiesandhavetoattendtheirclassesatanacademicinstitutioncanattendtheirclasseswiththepermissionoftheirreportingandteammanagerandAreaLeadbutwillhavetocompletehoursofwork.\n● Furtherdisciplinaryactionmaybetakenincluding,butnotlimitedtosalarydeductionsand/orformalwarnings.\n5. EmploymentBenefitsandFacilities\n5.1. PaymentofSalaryandAllowances",
+      "page": 20
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Furtherdisciplinaryactionmaybetakenincluding,butnotlimitedtosalarydeductionsand/orformalwarnings.\n5. EmploymentBenefitsandFacilities\n5.1. PaymentofSalaryandAllowances\nAllsalaryandallowancesshallbesetinNepaleserupeesandshallbepaidmonthlyexactlyonorbefore10thdayofthenextmonthinarrearsbytransferintoemployeesdesignatedbankaccount.Deductionsfromtheemployee’ssalaryshallbemadeautomaticallyforsocialsecurityfundcontribution,optionalself-contributoryretirementbenefitfund,incometax,unauthorizedabsenceorleavewithoutpay.\n21LeapfrogEmployeeHandbook",
+      "page": 20
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "5.2. Benefits:\n5.2.1.Salaryandallowancesofemployee\nSalaryandallowancesoftheemployeeworkinginLeapfrogwillbeinaccordancewiththeBylaworasapprovedbytheBoardfromtimetotime.\nLeapfrogshallnotdeductanyamountfromthesalaryofanemployeewithoutgivinganoticeexceptonthefollowinggrounds;\n● Incaseitisrequiredtorealizeanyfines\n● Incaseit is requiredto deductagainstabsence;orlossordamagetoanypropertyofLeapfrogintentionallyornegligently;\n● Incaseitisrequiredtodeductinrespectofprovidingprescribedfacilitiesoradvancesoroverpaymentofsalary.\n● Incaseit is requiredto deductundertheorderofgovernmentofficeorcourtorthenotificationoftheGovernmentofNepal;\n● Incaseit isrequiredtodeductinrespectofincometaxoranyothertaxleviedunderprevailinglaws\n5.2.2.SocialSecurityFund",
+      "page": 21
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Incaseit isrequiredtodeductinrespectofincometaxoranyothertaxleviedunderprevailinglaws\n5.2.2.SocialSecurityFund\nEveryEmployeewillberegisteredwithSocialSecurityFundandtheamounttobedepositedinSocialSecurityFundwillbedeductedfromthesalarytobereceivedbyanemployeewhereasanemployeecontributes11%of theirbasicsalaryandLeapfrogwillcontribute20%of theemployee’s basicsalaryforthatparticularmonth,whichsumstototal31%ofthebasicsalaryofanemployeeanddepositedtotheirrespectiveSSFaccount.\nEmployeesworkinginaLeapfrogareprovidedwithmedicalinsurance,accidentalinsuranceasperprovisionprovidedbySSF.\nLeapfrogwillcommunicateto thecontribution-basedsocialsecurityfundofficeupontheseparationofanemployeefromservicetosettletheamounttobereceivedfromcontributionbasedsocialsecurityfund.\n5.2.3.FestivalAllowance\nEmployeesworkinginLeapfrogwillbepaidanamountequaltoone-monthbasicsalaryofthatemployeeasafestivalbonus.\n22LeapfrogEmployeeHandbook",
+      "page": 21
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "FestivalallowanceforemployeeswhosetenureinLeapfrogislessthanayearwillbeproratedpaidbasedontheirtotalworkingdays.\n5.2.4.LaptopAllowance\nEmployeesworkingin Leapfrogwillreceivea certainstipendif theyusetheirownlaptopinsteadofthecompanylaptop.\n5.2.5.LeapfrogBonusandAllowances\nAnyotherLeapfrogbonusandallowanceswillbedistributedasperthedecisionoftheBoard.\n5.3. Facilities\n5.3.1.Foodprovision\n5.3.1.1. LunchBreak\nEveryemployeeshallgoforlunchforonehourduringtheday. Generally, lunchtimewillbefrom11:30pmto12:30pmfornormalshiftsandasuitabletimeofonehourasfixedbymanagementforothershifts.However, managementcanalterthistimeaspertherequirementoftheday. Managerscanallowdaily1-hourlunchbreaksinbetweentheworkinghourwithouthamperingthedailyofficeactivities.\n● Lunchbreakscanbeassignedatdifferenttimesfordifferentemployees.\n● Nursingmotherswhosechildisbelow3yearsofageshallbeallowedtotakereasonablebreaktimetobreastfeedandlookaftertheirinfants.\n5.3.1.2. SnackBreak",
+      "page": 22
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Nursingmotherswhosechildisbelow3yearsofageshallbeallowedtotakereasonablebreaktimetobreastfeedandlookaftertheirinfants.\n5.3.1.2. SnackBreak\nEveryemployeeshallgotoSnacksbreakfor30minutesaday. GenerallySnacksbreakisfrom3:30to4:00. Snacksbreakcanbeassignedatdifferenttimesfordifferentemployees.\n5.3.1.3. DinnerBreak\nAsperprojectrequirementemployeeworkinglatehourswhileworkingfromofficehaveDinnerbreakfacilitiesasperrequestsubmittedbythem1dayprior. Managerscanallowdaily1-hourdinnerbreaksinbetweentheworkinghourwithouthamperingthedailyofficeactivities.\n5.3.2.Arrangementfortransportation\nWhenrequiringwomenemployeestostartorfinishworkbeforesunriseorafterthesettingofthesun,Leapfrogshallmakeanarrangementfortransportationtocomeandgofromtheworkplace.\n23LeapfrogEmployeeHandbook",
+      "page": 22
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "5.3.3.Leave\nTheauthorityempoweredtograntleavehasdiscretiontorefuse,postpone,curtailandcancelleaveaccordingtopressureoftheworkandtherequirementofLeapfrog.Theemployeeshallnotbeentitledtoclaimtheleaveasaright.\nEmployeesareprovidedwithvariousleavebenefitstoallowpersonalandemergencytimeoff.Leaveisnotamatterofrightbutmerelyafacility. Employeesareentitledforleavesuchassickleave,maternityleave,paternityleave,bereavementleave,menstruationleave,specialleave,compensationleave,unpaidleaveotherthanweeklydayoffandpublicholidays.Intheeventofnecessity, Leapfrogshallrecalltheemployeeonleave.\nThepracticesrelatedtoapplyingforandapprovingplannedleavesisstatedinsection8.3ofthedocument.\nAnyemployeeremainingabsentforupto30dayswithoutobtainingpriorapprovaloronpriornotice,themanagementshallhavetherighttoterminatetheserviceofsuchemployeefortheirhisabsence.\n5.3.3.1.DiscretionaryLeave",
+      "page": 23
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Anyemployeeremainingabsentforupto30dayswithoutobtainingpriorapprovaloronpriornotice,themanagementshallhavetherighttoterminatetheserviceofsuchemployeefortheirhisabsence.\n5.3.3.1.DiscretionaryLeave\nAsLeapfrogprovidesSundaysofwinterandrainyseasonsoffaswinterandrainyseasonleaves,LeapfrogdoesnotprovideAnnualLeaveaspermittedbytheLaborAct.\nThediscretionaryleaveentitlementis10 daysperfiscalyear.Theemployeemustplantheirleaveinadvanceandareexpectedtogivereasonablenotice.\nSicknesswhilstondiscretionaryleavewillbetreatedasdiscretionaryleaveuntiltheapproveddiscretionaryleavehasexpired.Iftheemployeestillremainsunfitfordutyandsubmitstherequiredmedicalcertificates,thesickabsenceshallcommence.\nEmployeesworkingundertheprobationperiodandcontractshallbeeligiblefordiscretionaryleaveaftertheytransitionaspermanentemployeesofLeapfrog.\nDiscretionaryleaveisneithertransferablenorcashable.\n5.3.3.2.SickLeave",
+      "page": 23
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Discretionaryleaveisneithertransferablenorcashable.\n5.3.3.2.SickLeave\nIfanemployeeisabsentfromworkduetocasualillness,suchanemployeeshouldinformtheirrespectiveleadsassoonaspossible.\nEmployeesshallbeallowedtotakesickleavewithfullpayupto12daysinayeariftheyfallsick.\n24LeapfrogEmployeeHandbook",
+      "page": 23
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Employeesworkingundertheprobationperiodshallbeeligibleforsickleaveonapro-ratabasisfortheentireprobationperiodofcontinuousservice,i.e.1sickleavewillbeassignedfora1monthsperiod.\n● Ifsuchabsenceismorethanthree(3)consecutiveworkingdays,aprescribedcertificateissuedbyaphysicianrecognizedbytheGovernmentofNepalisrequiredatthetimeofreportingbacktooffice.Onlyuponsubmissionofthedoctor'sprescriptionandotherrelatedmedicalreportswillitbeconsideredassickleave.\n● Ifanemployeehastotakesickleaveurgently, theemployeemustinformtheauthoritywhosanctionedthesickleaveassoonaspossible.\nAllemployeescompletingtheprobationperiodinLeapfrogcompanyshallbeentitledto12dayspaidsickleaveannually.EmployeeswhoseserviceperiodintheCompanyislessthanthestandardworkingdaysinthecalendaryear, Sickleaveshallbeavailableonaproratabasis.",
+      "page": 24
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Partofsickleaveifnotavailedduringayear, shallbecarriedforwardtothefollowingcalendaryear. TheemployeesareentitledtoaccumulatetheSickLeaveupto45daysinaserviceperiod.Incasetheaccumulatedsickleaveexceeds45days,theemployeeshallbeentitledtoencashmentforsuchexcessperiodeachyear.Thecompanyshallpayfortheaccumulatedsickleaveatthetimeofterminationoftheserviceoftheemployeeattherateofhislastdrawnsalary.Incaseofresignation,terminationorimmediatecancellationofanemploymentcontractbytheorganization,leavetakeninexcessshallbedeductedfromthefinalsalarypayment.\nIfanemployeeisabsentfromworkduetocasualillness,suchemployeeshouldinformthemanagementassoonaspossible.\n5.3.3.3. Bereavementleave\nEmployeeswhohavecompletedtheirprobationaryperiodinLeapfrogshallget13dayspaidmourningleaveonthedemiseofspouse,childrenorparents.Incaseanemployeeisobligedtoobservemourningpersonallyinaccordancewithhis/herfamilycustomforstepparentsandwishestoobservesuchrituals,suchemployeewillalsobeeligibleformourningleave.",
+      "page": 24
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "5.3.3.4. MaternityLeave\n● Afemaleemployeeemployedwithacontinued1yearofserviceatLeapfrogisentitledtomaternityleavewithfullpayuptoamaximumof90consecutivedays.Ifneeded,additional30daysofunpaidleaveisallowed.ThisadditionalleavemustbeconsecutivedaystobeutilizedinonegoandcanonlybeavailedafterexhaustingthematernityleaveandwillrequireapprovalfromtherespectiveleadorprojectleadandPeopleManagement.\n25LeapfrogEmployeeHandbook",
+      "page": 24
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Theleavemustbetakenasclosetothetimeadvisedbytheemployee’sdoctororatleast2weeksearliertotheexpecteddateofdeliveryandsixweeksafterthechild'sdelivery.AnexpectantfemaleemployeeshallnotifytheirrespectiveleadorprojectleadaswellasPeopleManagementinwritingandapplyformaternityleaveatleastfourmonthspriortotheexpecteddeliverydatetoenablesubstitutecovertobearranged.Appropriatemedicalcertificatesmustbeattachedtotheleaveapplication.\n● Incaseofstillbirthorabortionofachildmorethansevenmonthsthefemaleemployeewillbeeligibleformaternityleave.\n● Whatsoeverprovisionedinthisbylaw, intheeventifthechildrenofanemployeewhohasalreadyutilizedthematernityleavesinaccordancewiththeprovisionsofthisbylawdieandorisbornstill,LeapfrogatitssolediscretionshallconsiderandapproveanadditionalMaternityLeaveofasuchemployeeifsheispregnantwithanotherchild.",
+      "page": 25
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Inaneventofthedemiseofthewifebeforecompletionof60daysfromthedateofchildbirth,themaleemployeewhosewifehasdiedshallgetaremainingperiodofmaternityleaveasapaidmaternitycareleavefortakingcareofthenewbornbaby.\n● Theemployeehastoproduceabirthcertificateofanewlybornchildtovalidatetheclaimonmaternityandpaternityleaveandservices.Exceptincaseofstillbirthordeathofthechildatthetimeofdelivery, theemployeewillnotberequiredtoprovidethebirthcertificateofthechild.\n● Pregnantemployee,two(2)monthspriortoherexpecteddeliverywillnotberequiredtodoanyworkthatinvolveslonghoursofstanding,orinanywayislikelytointerferewithherpregnancy. 180daysofremoteworkshallbegrantedtoanexpectingemployee.However, exactworkinghoursshallbeagreeduponindividuallywiththeworkers/employeemember’sreportingandteammanagerinordertomeettheneedsoftheprogramandaregularpatternshallbesetaccordingly.",
+      "page": 25
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Forpregnantandnursingmothers6-hourworkdayfor90daysisallowedwhichfurthercanbesplitbeforeandafterthedelivery,withadivision,notmorethan2parts.Onecanchoosetostartworkinga6hourshift60daysaheadoftheexpecteddeliverydate.ThearrangementmustbeapprovedbytheprojectleadorimmediateleadandmustbeinformedtothePeopleManagementarea.Duringthisperiod,anindividualshallbeaskedtoworkacertainnumberofhoursaweekfromtheoffice.\n● BasedonthesolediscretionofthemanagementcommitteeofLeapfrog,themanagementcommitteeshallapproveandgrantthefacilitiesundermaternityandpaternityleaveasprovisionedinbylawtoanemployeeadoptinganinfantuptosixmonthsorsurrogacy.\n26LeapfrogEmployeeHandbook",
+      "page": 25
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "5.3.3.5. PaternityLeave\nAmaleemployeeisentitledto15days(includingweeklydaysoffandfestivaldayswithinthatperiod)paidpaternityleaveonthebirthofhisbaby. Thisshouldbetakenwithintwoweeksfromthebirthofthebaby. Leaveshouldbetakeninonegowithinamonthofthebaby'sdelivery.\n● Amaleemployee,employedwithLeapfrogandhasserved1yearatLeapfrogshallbeentitledtopaternityleaveof15calendardays.Thisleavemustbetakenaroundtheexpecteddeliverydateandnolaterthanduringthefirsttwoweeksofthebirthofthechild.AnexpectantmaleparentmustnotifytheirrespectiveleadsorprojectleadsaswellasPeopleManagementthroughHRISatleasttwomonthspriortotheexpecteddeliverydatetoenablesubstitutecover. Anappropriatemedicalcertificateinsupportofhiswife’sexpecteddateofdeliverymustbesubmittedwiththeleaveapplication.\n30consecutivedaysofremoteworkshallbegrantedwhichneedstobeapprovedbytheprojectleadorimmediateleadaswellasthePeopleManagement.Duringthisperiod,theindividualmaybeaskedtoworkacertainnumberofhoursaweekfromtheoffice.\n5.3.3.6. MenstruationLeave",
+      "page": 26
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "5.3.3.6. MenstruationLeave\nAfemaleemployee,whohasworkedatleast6monthscontinuouslyandisaregularemployeewithLeapfrogshallbeentitledto6daysofmenstruationleaveperyear.Thisisanontransferableleave.\n5.3.3.7. Well-beingLeave\nTeammanagersandprojectmanagerscanapprovewell-beingleavetoemployeesbasedonthereasonablediscretionoftheteammanagerandprojectmanagerforthementalandphysicalwell-beingoftheemployee.ThisleaveisseparatefromtheSickLeavedescribedabove.\n5.3.3.8.LWOP(LeaveWithoutPay)\nEmployeeswhoareonprobationandarenoteligibleforpaidleaves,orwhohaveusedallavailableleavesshallrequestleavewithoutpay. Anyemployeegoingonleavewithoutproperinformationandapprovalfromtheirdirectleadsupervisorshallbemarkedleavewithoutpay.\n5.3.4.SalaryAdvances\nSalaryadvanceswillnotbegrantedexceptasauthorizedbytheBoardonacase-to-casebasis.Theemployeehastopaybacktheadvancetakenwithin12monthsoftheadvancetakentimeperiod.\n27LeapfrogEmployeeHandbook",
+      "page": 26
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "5.3.5.PrizeandPerks\nBODs/SVPoranypersonnelauthorizedbytheSVPcanallotcashprizeorotherformofprizetoencourageorhonoranemployeeworkinginLeapfrog.\n5.3.6.AnnualIncrement\nExceptincaseswhereanemployeehasbeensuspendedorhisannualsalaryincrementhasbeenwithheld,everyregularemployeewhohascompletedtheirprobationperiodofsixmonthsofcontinuousservicewithLeapfrogshallbeentitledtoanannualsalaryincrementknownasgradewitheffectfrom1stofPousheachyear.\nWherethemanagementfindstheworkperformanceofanyemployeetobehighlysatisfactory, itshallatanytimeincreasethesalaryofsuchemployee.\n5.3.7.Changeinexistingbenefits\nManagementofLeapfrogcanalterthefacilitiesandservicesofanemployeeworkinginLeapfroginaccordancewithcompanystrategies,marketposition,governmentpolicy, laboract,andlaws.\n5.3.8.CompanyHoliday",
+      "page": 27
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "ManagementofLeapfrogcanalterthefacilitiesandservicesofanemployeeworkinginLeapfroginaccordancewithcompanystrategies,marketposition,governmentpolicy, laboract,andlaws.\n5.3.8.CompanyHoliday\nInthecourseofasingleyear, LFemployeeswillbegrantedasumtotalof13companyholidays,encompassingsignificantoccasionssuchasInternationalWomen’sDayandLaborDay.ThePeopleManagementTeamshallpublishthelistofPublicHolidaysatthebeginningofeachyear. However, theSVPmayaltersuchholidayasdeemednecessary.\n5.3.9.IncomeTax\nLeapfrogshalldeductatthesourcetheincometaxpayablebyLeapfrogemployeesfromtheirsalaryeachmonthaspertherequirementsoftheGovernmentofNepal.EmployeesthemselvesshallberesponsibleforanypersonaltaxassessmentthattheyshallhaveandsubmittingtherelevantdocumentationtotheGovernmentofNepal.\n6. Recruitment",
+      "page": 27
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "6. Recruitment\nLeapfrogiscommittedtoensuringafair, consistent,andnon-discriminatingrecruitmentprocess.RecruitmentandselectionofanemployeeshallbemadeonanopencompetitionbasisinaccordancewiththeneedsofLeapfrog.Anyrecruitment,selection,layoff,andterminationaredirectlytiedtoLeapfrog’sbusinessneedsandwillbedrivenbyLeapfrog’sbusinessprioritiesandnecessities.\n28LeapfrogEmployeeHandbook",
+      "page": 27
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "7. Induction\nAllnewemployeestoLeapfrogshallhaveanindividualinductionprogramsettingouttheirneedsandhowtheseshallbemetoveraperiodoftime.Theinductionprogramshallinclude\n● Practicalissuessuchasintroducingtheindividualtotheteamandotherworkers/employeesandprovidinganexplanationofbasicofficesystems,administration,health,safety, andsecurity. Thisshallbecarriedoutonthefirstdayorassoonaspossible.\n● Theirroleintheorganizationasawhole.\n● TheroleoftheUSofficeandotheroffices/programmes.\n● FamiliaritywithLeapfrog’sMission,Vision,andValues.\n● Accesstoresourcesacrosstheorganization.\n● MeetingwithseniorexecutivepartnersandfamiliarizationwiththeLeapfrogprograms.\n● Havingspentsometimeonthejob,additionalfollow-upmeetingsshallbehelpfultoandtheseshouldbearrangedasnecessary.\n7.1. Maintainpersonalfiles",
+      "page": 28
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Havingspentsometimeonthejob,additionalfollow-upmeetingsshallbehelpfultoandtheseshouldbearrangedasnecessary.\n7.1. Maintainpersonalfiles\nAseparatepersonalfileofemployeeswillbemaintainedwhichwillincludeapersonalhistoryform,interviewevaluationform,resume,citizenshipcard,educationalcertificates,trainingcertificates,PANcard,appointmentletters,andotherimportantdocumentssuchasperLeapfrogrequirement.\nTheeducationalqualificationandjobexperienceofanemployeerequiredforLeapfrogwillbedecidedbyPeopleManagementinconsultationwiththeSVP.\nThefilesareconfidentialwithFinanceandPeopleManagementhavingaccesstothem.\n8. AttendanceManagement\n8.1. StandardLeaveProcess\n● AnemployeewhetherunderprobationorpermanentlygoingonleavemustlogintoourHRIStorequestleavefromthedirectlead.\n● AnEmployeeinvolvedinmultipleprojectsneedsapprovalfromanassignedlead(contactPeopleManagementtoknowaboutyourassignedlead)theassignedleadneedstoconsultwithotherleadsoftheassignedprojectforleaveapproval.\n29LeapfrogEmployeeHandbook",
+      "page": 28
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Incaseofanextensionofleave,theleadmustbeinformedone(1)daypriortothecompletionofpreviouslyapprovedleave.\n● Inreferencetothesensitivityandnatureoftheproject,employeesinvolvedintheleavedayscanbedecreasedonmutualconsent.\n● Failingtoadheretothestandardleavepolicywillleadtoadverseeffectsontheperformanceevaluationoftheemployeeandwillleadtocorrectiveactions.\n● Bonafideemergencieslikestrikesandlockoutswillbetakenintoconsiderationona“withoutprejudice”basis,however,properinformationisessential.\n8.2. ApprovalforLeave\n● Employeesmusttakeapprovalfromtheleaveapprovingauthoritybeforetakingaleave.\n● Leavetakenwithoutapprovalfromauthorizedpersonnelwillnotbecountedasleave.EmployeesmustapplyforleavethroughHRISPortal.\n8.2.1.AuthoritytoApproveleave\nAnemployeewhoisauthorizedtoapproveleavecanonlyapproveleave.\n8.3. PlannedLeave(theleavesthatyoushouldpre-schedule):",
+      "page": 29
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "8.2.1.AuthoritytoApproveleave\nAnemployeewhoisauthorizedtoapproveleavecanonlyapproveleave.\n8.3. PlannedLeave(theleavesthatyoushouldpre-schedule):\nAnemployeewhoisauthorizedtoapproveleavemustarrangetheleavewithouthamperingthedailyoperationofLeapfrog.AnyEmployeeseekingaplannedleaveneedstoapplyearlyforpriorapproval.TheemployeeneedstorequestleavefromtheHRISandmustgettheleavesanctionedforthementionednumberofdaysbeforegoingforaleave:\n● 1to2daysplannedleaveapprovalatleast3daysinadvance.\n● 3to5daysplannedleaveapprovalatleasttwoweeksinadvance.\n● Longerthan6daysofapprovalplannedatleastamonthinadvance.\n● Timelyinformingtheteamandapplyingforleavesincaseofemergencies.\n8.4. UnplannedleaveincaseofEmergency:\n● Anemployeeneedstocalluptheconcernedleadforleaveincaseofanemergency.\n● Anemployeeneedstorequestleaveonthedayheorshejoinstheoffice.\n● Exceptforleavesinemergencycases,thentheleaveformneedstobefilledandpriorapprovalneedstobetakenfromtheconcernedlead.\n30LeapfrogEmployeeHandbook",
+      "page": 29
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Incaseofanextensionofleave,theleadmustbeinformedone(1)daypriortothecompletionofpreviouslyapprovedleave.\n8.5. SickLeaveApplication:\n● Anemployeeneedstocalluptheconcernedleadforleaveincaseofillness.\n● Employeestakingmorethan3daysofSickleavemustbringthedoctor’scertificateandsubmitittoPeopleManagement.\n● Exceptforplannedsickleavessuchasanoperationandreferredbedrest,thenpriorapprovalfromtheleadisneeded.\n8.5.1. Reportingsicknessabsence\nOnthefirstdayofabsenceanemployeemustinformtheconcernedreportingmanagerby10.00amandthenkeepthereportingmanagerregularlyinformedoftheprogressandwhentheemployeemightbeexpectedtoreturntowork.Failuretoreportillnessoraccidentwithin48hoursshallleadtotheemployeebeingconsideredabsentwithoutleaveandsubjecttodisciplinaryaction.\n8.5.2. Recordingsicknessabsence\nThePeopleManagementTeamshallkeeparecordofallthedaysofabsenceduetosicknessforthepurposeofcalculatingthesickpay.\n9. LeaveRecords",
+      "page": 30
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "8.5.2. Recordingsicknessabsence\nThePeopleManagementTeamshallkeeparecordofallthedaysofabsenceduetosicknessforthepurposeofcalculatingthesickpay.\n9. LeaveRecords\nTherecordofemployeeleavemustbekeptaspertheformatprovidedbyLeapfrog.TheleaverecordformatislistedinHRIS.TheleaverecordsofallemployeesshallbeheldbythePeopleManagementareawhichwouldberesponsibleformonitoringalltypesofleavetakenandleavedue.Thecalculationofleaverecordswillbebasedonthecalendaryear. AllleaverecordsshouldbeclosedattheendofAshad.\n9.1. Absences\n9.1.1.UnauthorizedAbsence\n● Anemployeewhoisabsentwithoutauthorizationonanyrosteredworkday/simmediatelypriortoorfollowingapublic/religiousholidayand/orrostereddayoffwillhavetoforfeitpayfortheholidayand/ordayoffaswell.\n● Absenceduetosickness(sickleave)isregardedasauthorizedabsenceonlyifsupportedbyanacceptablemedicalcertificateforanyavailedsickleaveexceeding3workingdays.Anemployeewhoisabsentduetosicknessandisnotabletoprovideanacceptable\n31LeapfrogEmployeeHandbook",
+      "page": 30
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "medicalcertificate(whererequired),mayforfeitpayforthedaysofabsenceaswellasanyPublic/Religiousholidaysandrostereddaysoffcoincidingwiththedaysofabsence.\n● Anemployeewhohasbeenabsentfor30dayscontinuouslyfromtheofficewithoutservinganynoticeorwithouthavingapprovaloftheleavemaybeterminatedfromtheserviceafterdeductinghisabsence.NoprocedurerelatingtothepunishmentundertheRulesshallberequiredtobeadoptedincaseofterminatingfromsuchservice.\n9.1.2.DisciplinaryProcedureforUnauthorizedAbsence\n● Ifemployeeisnotcompliantwithleaveprocedure,managersitswithemployeeandhavecounsellingmeeting-reinforcingemployee'sunderstandingoftheimpactbyhim/herbeinglatetoworkandtheexpectationsonattendance/leave.Awrittenwarningisissued.\n● Ifemployeeisnotcompliantwithleaveprocedure,afinalmeasureofdisciplinaryactioncanbedismissalfollowingdisciplinaryproceduresoftheLaborAct.\n9.2. Absenceduetosickness",
+      "page": 31
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Ifemployeeisnotcompliantwithleaveprocedure,afinalmeasureofdisciplinaryactioncanbedismissalfollowingdisciplinaryproceduresoftheLaborAct.\n9.2. Absenceduetosickness\nAnemployeewhohasutilizedtheentitlementofpaidsickleaves,casualleaveswillenterintoaperiodofunpaidsickleave,however,discretionofapprovallieswithaSVP. Incaseofaplannedhospitalizationduetosurgery/maternityorforanyotherreasonAreaLeadandPeopleManagementTeammustbeinformedpriortoavailingtheleave.Incaseofaplannedhospitalizationduetosurgery/maternityorforanyotherreasonAreaLeadandPeopleManagementTeammustbeinformedpriortoavailingtheleave.\nAnycaseofforgedmedicalcertificate/billswillbetreatedasfraudandwillbedealtaccordingtothedisciplinarypolicy. Companyreservestherighttoevaluatethehealthandsuitabilityofthecandidateforthejobthroughthedoctor/hospitalofitschoicewheredeemednecessary.\n9.3. AnyOtherLeaveofAbsence\nAnemployeewiththeapprovalof PeopleManagementTeamLeadcanenterintounpaidleavesofabsence,sole",
+      "page": 31
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "9.3. AnyOtherLeaveofAbsence\nAnemployeewiththeapprovalof PeopleManagementTeamLeadcanenterintounpaidleavesofabsence,sole\ndiscretionofapprovallieswiththemanagementdependingonthecircumstances.\n10. Misconduct\nLeapfrogmayterminatetheemploymentoftheemployeeformisconduct.\n32LeapfrogEmployeeHandbook",
+      "page": 31
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "10.2. FormalDisciplinaryAction\nTheformaldisciplinarycourseofactionwillbeusedwhenaArea/Teammanagerbelievesthatanemployeeshallhavecommittedabreachofconduct:eitherafurtherminorbreachofconductthathasalreadybeensubjecttoinformalaction;orinallcasesofallegedgrossmisconduct.\n10.2.1.FormalDisciplinaryProcedure\n● Theformaldisciplinaryproceedingshallbeinitiatedwithin2 monthsfromthedateofhavingobtainedtheknowledgeofthecommissionofmisconduct.\n● Themanagershallprovide,settingforthinanobviousmanner, thefactofthemisconductandanypunishmentthatshallbeimposedifsuchfactisprovenwithin7workingdaysoftheinitiationoftheproceeding.Theemployeeshallthensubmithis/herclarificationwithinafurther14days.\n● Themanagershalltakethedecisionregardingtheimpositionofthepunishmentformisconductwithin3monthsofinitiationoftheformaldisciplinaryproceeding\n10.2.1.1. Warning\nWarningmaybegiventoanyemployeeinvolvedinanyofthefollowingmisconduct:\n● Ifanemployeeremainsabsentfromworkwithoutleaveapproval.",
+      "page": 32
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "10.2.1.1. Warning\nWarningmaybegiventoanyemployeeinvolvedinanyofthefollowingmisconduct:\n● Ifanemployeeremainsabsentfromworkwithoutleaveapproval.\n● Ifanemployeeleavestheofficewithoutpermission.\n● Ifanemployeecomeslateatworkwithoutpermission.\n● Iftheemployeedisobeystheordersofseniors.\n● Iftheemployeecommitsanyothermisconductsofsimilarnature.\n● FailuretoperformtheirroletoasatisfactorylevelasdeterminedbytheirleadsandconfirmedbyaManagement\n10.2.1.2. Deductionofone-daysalary\nOneday’ssalarymaybedeductedforthefollowingmisconduct:\n● If anemployeedoesnotaccepttheletterornoticeissuedbytheLeapfrogorofficerhavingtheauthoritytopunish.\n● Ifanemployeetakespartorcompelsotherstotakepartinillegalstrikeorslowsdowntheworkcollectively.\n33LeapfrogEmployeeHandbook",
+      "page": 32
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● IfanemployeecauseslosstoLeapfrogbyreducingtheproductionorservicenegligentlyorcarelessly.\n● Ifanemployeetriestotakebenefitsbysubmittingfalsedetails.\n● IftheemployeedoesnotusesafetyequipmentprovidedbyLeapfrog.\n● Iftheemployeecommitsanyothermisconductsofsimilarnature.\n10.2.3.3. Withholdingtheannualsalaryincrementorpromotion\nAnyannualincrementorpromotionmaybewithheldfor1yearforfollowingmisconducts:\n● If theemployeetakesLeapfrog'spropertyoutsideLeapfrogor allowsunauthorizedpersontousesuchwithoutthepermissionofthecompetentperson.\n● Iftheemployeeembezzlestheentity'sfund.\n● IftheemployeedamagesLeapfrog'spropertyduetonegligenceorrecklessness.\n● Iftheemployeepreventsthesupplyoffood,water, telephone,electricityorobstructsthemovementinandoutoftheCompany.\n● Iftheemployeemisusesorcausesdamageorlosstotheobjectsorprovisionskeptforthebenefitorsafetyandhealthoftheemployees.\n10.2.3.4. Suspension",
+      "page": 33
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "10.2.3.4. Suspension\nIf thereareallegationsthatanemployeeis involvedin activitiesthataredetrimentalto theCompany'sworkand/orreputation,orthatanemployeehascommittedadismissibleoffenseandtheallegationremainsto be objectivelyverifiedor substantiatedandthepresenceof theemployeewillhaveanimpactontheinvestigationprocess,theLeadofPeopleManagementwithapprovalofSVPcansuspendtherelevantemployeewithhalfpay, pendingafullreviewoftheevidenceavailable.Everyeffortshouldbe madeto ensurethatthisreviewis completedasquicklyaspossible– preferablywithin1 week,butcertainlywithina3-monthperiod–atthecloseofwhicha finaldecisionwillbemade.Theperiodofsuspensionmaybeextendedby1moremonthif theinvestigationis notcompleted.Whereanemployeewhois suspendedisabsolvedofallegationagainsthim/her, he/sheshallbeentitledtoreceivealltheremunerationalongwithincrementinremuneration,ifany, afterdeductingtheamountofremunerationhe/shehasalreadyreceivedduringtheperiodofsuspension.\n10.2.3.5. Dismissal",
+      "page": 33
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "10.2.3.5. Dismissal\nEmployeemaybedismissedfromtheserviceforthecommissionoffollowingmisconducts:\n34LeapfrogEmployeeHandbook",
+      "page": 33
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● IftheemployeeassaultsorinjuresLeapfrogoranyemployeeorcustomeroranypersonconcernedwiththeworkplaceorkeepsin captiveorcausesunrestordamageinthepremiseoftheCompanywithorwithoutuseofanyweapon.\n● Iftheemployeeacceptsoroffersabribe.\n● Iftheemployeestealspropertyofothersintheworkplace.\n● IftheemployeemisappropriatedanyfinancialtransactionofLeapfrog.\n● If theemployeeintentionallydamagesthepropertyofLeapfrogundertheircontrolorwhichisbeingusedbyLeapfrog.\n● Iftheemployeeremainsabsentfromworkcontinuouslyformorethan30dayswithoutapprovingtheleave.\n● IftheemployeerevealsanyconfidentialinformationrelatingtospecialtechnologywithanintentiontocauselossordamagetoLeapfrog.\n● Ifanemployeeworksincollaborationwithacompetitiveemployerinthesimilarnatureof businessor carryinganycompetitivebusinesson his/herownor providesanyconfidentialinformationabouttheCompanytoanyothercompetitiveemployer.\n● If theemployeeis convictedby thecourton anycriminaloffenseinvolvingmoralturpitude.",
+      "page": 34
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● If theemployeeis convictedby thecourton anycriminaloffenseinvolvingmoralturpitude.\n● If theemployeesubmitsforgedor falseeducationalcertificatesforthepurposeofappointment.\n● Iftheemployeecomestotheworkplaceafterconsumingorhasconsumeddrugsorliquorduringworkinghours.\n● If theemployeehasbeenpunishedtwiceforothermisconductwithintheperiodof3years.\n● If theemployeecommitsanymisconductfor whichanyprevailinglawprescribesdismissalaspunishment.\n11. EmployeeServiceandSeparation\n11.1.ServiceTenure\nPeopleManagementareaholdsarighttodetermineanemployee'sservicetenurebasedontheavailablerecords.\n35LeapfrogEmployeeHandbook",
+      "page": 34
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "11.1.1. Calculationofservicetenure\nThefollowingperiodshallalsobetakenintoaccountforthepurposeofcalculatingtheserviceperiodofanyworkeroremployee:\n● Periodduringwhichaworkeroremployeeiskeptinreserve.\n● Periodduringwhichaworkeroremployeeremainsonpaidleave.\n11.2. NoticePeriod\n● Exceptforanemployeewhohasbeenterminatedondisciplinaryissues,ifemploymenthastobedissolvedLeapfrogoranemployeeisrequiredtoinformasbelow. Thefollowingappliestotheemployeesbelowmanagerialposition.\n○ Foremploymentupto4weeks:noticeperiodofatleast1day.\n○ Foremploymentfrom4weeksto1year:noticeperiodofatleast30days.\n○ Foremploymentexceeding1year:noticeperiodofatleast30days.\n● IfLeapfrogdismissestheemploymentwithoutprovidingasufficientnoticeperiodanemployeehastobecompensatedwiththeamountequaltothegrosssalaryagainstthetotalnoticeperiodtobeentertained.\n● IfanemployeeendsemploymentwithLeapfrogwithoutservingasufficientnoticeperiodLeapfrogcandeducttheamountequaltothegrosssalaryagainstthetotalinsufficientnoticeperiod.\n12. ExitTypes",
+      "page": 35
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● IfanemployeeendsemploymentwithLeapfrogwithoutservingasufficientnoticeperiodLeapfrogcandeducttheamountequaltothegrosssalaryagainstthetotalinsufficientnoticeperiod.\n12. ExitTypes\n12.1. Resignation\nAnyemployeewhois willingtoleavetheCompanyshallsubmitresignationlettertoPeopleManagementTeamLeaderconcernedreportingmanagerprovidingpriornoticeperiodasbelowstatingthereasonforresignation\nIn casean employeedoesnotgivethenoticeoftermination,theCompanyshalldeductanamountequivalentto theremunerationforthenoticeperiodfromtheremunerationof theconcernedemployeewhichhe/sheisentitledtoreceive.\nTheconcernedreportingmanagershallberesponsibleformakingfinalclearanceandensurethattheproperhandoverandtakeoverprocedureshasbeenfollowedincludinghandlinganyproperties,clearingduesbeforethefinalpaymenthasbeendone.\n36LeapfrogEmployeeHandbook",
+      "page": 35
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Employeesworkinginmanagerlevelshouldprovide2months'noticeperiodforthefulfillmentofproperhandoverandtakeoverprocedures.\n12.2. Retirement\n● Aregularemployeewillretireaftertheageof58(Fifty-eight).\n● ProvidedthatthetermsofservicesofanyworkeroremployeewhoseserviceisindispensableforconductingthebusinessofLeapfrogshallbeextendedforanadditionalperiodoffiveyears.\n● However, thereshallbenoagelimitfortheemployeesworkingpart-time,piecerate,andcontractbasis.\n● Ifanemployeeislicensedbythestatetoperformacertainjobandifthestatedismissessuchalicenseoftheemployee,suchemployeecanbecompelledtoretirefromtheservice.\n12.3. Termination\n12.3.1TerminationofContract\nTerminationofcontractariseswhenaroleceasestoexistduetothefactthat:\n● Leapfroghasceasedorintendstocease,tocarryonthebusinessforthepurposeforwhichtheemployeewasemployed,orhasceased,orintendstocease,tocarryonthatbusinessintheplacewheretheemployeewasemployed;or",
+      "page": 36
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Leapfroghasceasedorintendstocease,tocarryonthebusinessforthepurposeforwhichtheemployeewasemployed,orhasceased,orintendstocease,tocarryonthatbusinessintheplacewheretheemployeewasemployed;or\n● Therequirementsofthatbusinessforemployeestocarryoutworkofaparticularkind,orforemployeestocarryoutworkofaparticularkindintheplacewheretheyaresoemployed,haveceasedordiminished,orareexpectedtoceaseordiminish.\nNoticeofterminationshouldbegiventotheemployeeproviding1monthprior.Leapfrogshallcompensatetheequivalentamountofremunerationinlieuofnotice;incasetheCompanyterminatestheemploymentwithoutgivingthenoticeoftermination.\n12.3.1.1. TerminationoftheWorkBasedandTimeBoundEmployment\nLeapfrogcan terminatethe time-basedemploymentand work-basedemploymentuponcompletionoftaskortimeperiodasstatedintheemploymentagreement.\n12.3.1.2. TerminationbyPoorPerformance",
+      "page": 36
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Leapfrogcan terminatethe time-basedemploymentand work-basedemploymentuponcompletionoftaskortimeperiodasstatedintheemploymentagreement.\n12.3.1.2. TerminationbyPoorPerformance\nLeapfrogcanterminatetheemploymentif theperformanceoftheEmployeeis foundto beunsatisfactoryorbelowrequiredstandardsatanytimeonthreeormoreoccasionsconsecutively,\n37LeapfrogEmployeeHandbook",
+      "page": 36
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "whereoneachoccasiontheemployeehasbeeninformedaccordingtotheschedulebelow. ThenatureanddeterminationofpoorperformanceisatthesolediscretionofLeapfrogManagement,andwillbedeterminedbyundertakinga workperformanceappraisalwhereexpectationsandshortcomingsaremadeclearinanopenevaluation.\n● WrittenWarning– tobegivenviaemail,company’s portalorinhardcopywithaclearindicationanddescriptionofunsatisfactory, poorperformancebeingacknowledgedbymanagement,that neednot be a continuationof previouslyacknowledgedpoorperformance,i.e.,canbe theresultof poorperformancein an areaotherthanthatacknowledgedinapriorverbalwarning.\n● FinalWrittenWarning–tobegiveninhardcopywithaclearindicationofunsatisfactory,poorperformancebeingacknowledgedbymanagement,thatneednotbeacontinuationofpreviouslyacknowledgedpoorperformance,i.e.,canbetheresultofpoorperformanceinanareaotherthanthatacknowledgedinpriorwarnings.Theprintedcopiesofrecordsofallpreviouswarningsneedtobeattached.",
+      "page": 37
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "A warningfor poorperformanceand for misconductare distinctand maybe givensimultaneously. A minimumof10workingdaysshouldpassbeforea successivewarningisgivenforacontinuationofpoorperformanceinthesamearea.\n12.3.1.3. TerminationduetoHealthReasons\nIn caseswhereanemployeebecomesphysicallyormentallyunfitto performtheirworkorrequiresa longperiodof timeforhealthtreatment,theAgreementcanbeterminateduponrecommendationofamedicalpractitioner.\nTheAgreementcannotbeterminatedforaperiodofoneyearifanemployeebecomesphysicallyormentallyincapableincourseofcarryingouttheirworkassignedbyLeapfrog.Further, theemployeeshallbeentitledtoreceivetheirremunerationduringsuchperiod.\nIncaseoftheemployee’sinabilitytobepresentattheCompanyinthecourseofanyotherhealthtreatments,theCompanycannotterminatetheemployee’sjobforaperiodof6months.\n12.3.1.4. Death\nUponthedeathofanemployeehis/heremploymentisconsideredtobeterminatedonthatday.Allaccruedbenefitsduetohimshallbeprovidedtohis/hernomineeorlegalclaimant.",
+      "page": 37
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "12.3.1.4. Death\nUponthedeathofanemployeehis/heremploymentisconsideredtobeterminatedonthatday.Allaccruedbenefitsduetohimshallbeprovidedtohis/hernomineeorlegalclaimant.\nUponthedeathofacurrentemployee,thedateofdeathshallbedeemedthedateonwhichtheemployee’sservicewithLeapfrogshallcease.\nThedesignatednomineeofthedeceasedshallbeentitledtoalltheoutstandingbenefitsofthedemiseemployee.\n38LeapfrogEmployeeHandbook",
+      "page": 37
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● If anyemployeediesimmediatelyorduringtreatmentasa resultofanaccidentwhiledoingtheworksdesignatedbyLeapfrog,compensationequivalenttotheamountofthreeyearsof salaryof thedeceasedshallbe provided,in a lumpsumto thedesignatedbeneficiaryofthedeceasedemployee.\n● Itistheemployee’sresponsibilitytoensurethattheirpersonaldetails,includingthenameoftheirnominatedbeneficiary, arekeptup-to-date.Suchinformationshouldbestatedintheemployee’spersonalinformationform.\n12.4.ExitProcedure\n12.4.1.ExitInterview\nExitInterviewshallbeconductedwithleavingemployees,befores/heleavestheCompany. Theprimaryaimoftheexitinterviewshallbetolearnemployee’s perspectiveregardingleavingtheCompany, anyfeedbacktothemanagementformaintainingeffectiveoperations.Exitinterviewshallalsoenabletotransferknowledgeandexperiencefromdepartingemployeetoasuccessor.\n12.4.2.Clearance",
+      "page": 38
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "12.4.2.Clearance\nEmployeesshallberequiredtoformallyhandovertheirresponsibilitytothedesignatedpersoninwritingandshallsettlealltheirdueswhenleavingLeapfrog.Alltheassetsprovidedto theemployeesshallbereturnedtotheLeapfrog.\nLeapfrogshall makefinal paymentonly after the final clearancehas been madeformally.LeapfrogshalldeductanypayablestooutgoingemployeesiftheyfailtosettleduesorreturnassetsuntilleavingLeapfrog.\n12.4.3.WorkExperienceletter\nA workexperiencelettershallbe providedto anyemployeeuponhis/herrequestuponcompletionof employment.A copyof worktheexperiencelettershallbe retainedin thepersonnelfileoftheemployee.\n13. WorkplaceSafety\nLeapfrogis committedto providingsafeandhealthyworkenvironmentsandto beinganenvironmentallyresponsiblecorporatecitizen.It is ourpolicyto complywithallapplicableenvironmental,safety,andhealthlawsandregulations.",
+      "page": 38
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Wearededicatedtodesigning,constructing,maintaining,andoperatingfacilitiesthatprotectourpeopleandphysicalresources.Thisincludesprovidingandrequiringtheuseof adequateprotectiveequipmentandmeasuresandinsistingthatallworkbedonesafely.\n39LeapfrogEmployeeHandbook",
+      "page": 38
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "13.1. EmployeePrivacy\nLeapfrogrespectstheprivacyanddignityofallindividuals.LeapfrogcollectsandmaintainspersonalinformationthatrelatestoeachEmployee’semployment,includingmedicalandbenefitinformation,andtakesspecialcaretomaintaintheconfidentialityofsuchinformationandwillnotdisclosesuchinformationtoanypersonwithoutconsent,exceptforpersonswhoneedtoknowthesameforalegitimatepurpose.\n13.2. FairDealing\nNo Leapfrogemployeeshouldtake unfairadvantageof anyonethroughmanipulation,concealment,abuseofprivilegedinformation,misrepresentationofmaterialfacts,oranyotherunfair-dealingpractice.\n13.3. EqualEmploymentOpportunity\nLeapfrog’s overallpolicyis to giveequalopportunitiesforemploymentanddevelopment/promotion.LeapfrogiscommittedtoprovidingfairtreatmenttoallEmployeesonthebasisofmerit,withoutdiscriminationagainstanypersonon anybasisthatwouldbe prohibitedbyapplicablelaws.\n13.4. EmployeeDevelopment",
+      "page": 39
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "13.4. EmployeeDevelopment\nLeapfrogis committedto attracting,developingandretaininghighqualityemployeesandprovidingachallengingandprofessionalworkingenvironmentforallemployees.\n13.5. WorkplaceViolence\nLeapfrogwillnottolerateanylevelofviolenceincludingsexualharassmentintheworkplaceorinanywork-relatedsettingandsuchconductmaybepunishableaspertheprevailinglawsofNepal.\n13.6. IndustrialInjury\nAninjurywillbeconsidered‘Industrial”wherealloperational&safetyproceduresinscribedbyLeapfrogwerefollowed,andanyofthefollowingconditionswereinexistencewhentheinjuryoccurred:\n● Theemployeewasengagedinassignedduties,andtheinjuryoccurredasadirectresultoftheseduties\n● Theinjuryoccurredduetoexposuretomaterialsand/orconditionsharmfultohumanhealthwhilstengagedintheassignedduties\n40LeapfrogEmployeeHandbook",
+      "page": 39
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "Aninjurywillnotbeclassedorrecognizedasanindustrialinjuryifitwascontributedtoeitherinfullorinpartoftheemployee’sownnegligence.IncaseofaqualifiedindustrialinjuryLeapfrogwillgettheemployeetreatedatdesignatedhospitals(decidedbyLeapfrog)andemployeewillbepaidsalaryinfullduringthecourseofhistreatmentandhisquotaofavailablesick,casualandannualleaveswillremainintact.Incaseofpermanentdisabilityand/orinabilitytofulfillthedutiesofthecurrentjob,employeeshallbeassignedanyotherrolesacrossLeapfrogwhosediscretionliessolelywiththePeopleManagementDirectorandCEO.Incaseofdeathduetoqualifiedindustrialinjury, employee’sfamilywillbecompensatedaccordingtotheapplicableclausesofaccidentaldeathcoverageofinsurancepolicy.\n14. CorporateBooksandRecords;FinancialReporting,AuditandInvestigation",
+      "page": 40
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "14. CorporateBooksandRecords;FinancialReporting,AuditandInvestigation\n● YoumustrecordLeapfrogfinancialactivitiesincompliancewithallapplicablelawsandaccountingpractices.Inrelationtofinancialreporting,auditsandinvestigations,youmustprovideinformationthatistrue,fair, accurate,timelyandcomplete,andactingoodfaith,responsibly, withduecare,competenceanddiligencewithoutmisrepresentingoromittinganymaterialfacts.\n● Makingfalseormisleadingentries,recordsordocumentation,makingmisrepresentationoromissionofamaterialfactinconnectionwithLeapfrogfinancialorbusinessactivities,or takinganyactionthatcouldresultin makingLeapfrogfinancialstatements,auditreportorinvestigationreportmisleadingisstrictlyprohibited.\n● YoumustalsomaintainappropriatecontrolsoverallLeapfrogassetsandresourcesused.Youmustnottakeanyactionto fraudulentlyinfluenceorotherwiseinterferewithanexternalpublicaccountant,internalauditororinvestigatorwhoisperforminganauditorreviewofLeapfrogfinancialstatements.\n15. WorkplaceViolence",
+      "page": 40
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "15. WorkplaceViolence\nLeapfrogwillnottolerateanylevelofviolenceincludingsexualharassmentintheworkplaceorinanywork-relatedsettingandsuchconductmaybepunishableaspertheprevailinglawsofNepal.\n16. BusinessTravelPolicy\nTheManagementandemployeesshallbereimbursedforreasonableandnecessarytravelexpensesincurreddirectlyconnectedwithbusiness.Allexpensesmustbeordinary,reasonable,necessary, andhaveavalidbusinesspurpose.\n41LeapfrogEmployeeHandbook",
+      "page": 40
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "16.1. AirlineTravel\n● ItisthepolicyoftheLeapfrogtousethelowestfarewhereverpossible.Werequirethatapprovalbeobtainedforalltravelthatisbookedwithlessthantwoweeks’notice.Coachoreconomyclasswillbeusedonallflights.\n● ExceptforSVP, faresandflightsshallbevalidatedbytheEmployee’s Managerpriortopurchase.Allticketsmustbepurchasedatleastoneweekinadvanceoftheintendeddateoftravelexceptinsituationswhereitisabsolutelyimpossibletodoso.\n● Employeesmayelecttoupgradetravelclassatanytimeiftheypersonallypaythecostdifferencebetweentheclassfareonthecurrentticketandthefaredesired.\n● Whentravelinginternationallypleaseensurethat you havethe necessaryvisa,immunizations,andpassports.If a visais required,theCompanywillprovidetheapplicationandprocessinginformationandthefeeshouldbeplacedonyourexpensereportforreimbursement,ifnotalreadytakencareofby Leapfrog. \n● Forsafetypurposes,no morethanfiveemployeesmusttraveltogetheronthesamecommercialairline.",
+      "page": 41
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Forsafetypurposes,no morethanfiveemployeesmusttraveltogetheronthesamecommercialairline.\n● Businesstrips,whichalsoincludetravelforpersonalreasons,willbereimbursedonlyforthedirectorbusinessportionofthetrip,basedontheaccommodationactuallyusedforbusinesspurposes.\n16.2. TransportationExpenses\n● LeapfrogwillobtaintransportationfortheemployeeorreimbursetheemployeeforthecostoftransportationincurredwhiletravelingonauthorizedLeapfrogbusiness.\n● Themethodof transportation(rentalcar, taxiandothergroundtransportation)isdependentuponthelocation,durationandnatureofthebusinesstrip.Thetravelerisexpectedtousetheirbestjudgmentastothemethodchosenbasedonbusinessneeds.\n● Whiletravelingoutofthecityandwithinthecountry, arentalcarmaybeusedbasedonpriorrequestmadetotheAdminareaandmustbevalidatedbythereportingManagerswithafinalapprovalfromtheLeadofareainadvance.Ifarentedvehicleisinvolvedinanaccident,theAdminareashouldbenotifiednolaterthanthedaytheaccidentoccurs.\n16.3. DailyAllowances",
+      "page": 41
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "16.3. DailyAllowances\nLookingatthenatureofthejobBODscandecidedailyandtravelallowanceforemployee,advisororconsultant.\n42LeapfrogEmployeeHandbook",
+      "page": 41
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "16.4. Accommodation\n● LeapfrogwillbookandpayforaccommodationforbusinesstravelapprovedbytheBOD.LeapfrogwillnotpayfororreimburseaccommodationforbusinesstravelnotapprovedbytheBOD.\n16.5. IncidentalExpenses\n● Laundry:Notreimbursed\n● Tips:Notreimbursed\n● RoomCleaning:Notreimbursed\n● Telephone:TelephoneisonlyreimbursableforInternationaltravelandmustbeapprovedby the managerbeforehand.Telephoneexpendituresare fullyreimbursablefor businesspurposesandallowablefor personalcallson areasonablebasisduringinternationaltravels.Ifthecostofcallsisunusuallyhigh,whetherforbusinessorforpersonalreasons,thetravelermustexplainthenatureofthecalls.Datawillnotbereimbursed.Toavoidbadsurprises,whentravelingabroad,usersareadvisedtoshutdownaccesstodata.Insomecountries,localphoneswillbe providedto travelersto avoidroamingcostsandbe locallyreachable.\n16.6. ReimbursementClaim\n● Thistravelpolicy&reimbursementclaimappliestoallindividualstravelingupto1monthatatime.",
+      "page": 42
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "16.6. ReimbursementClaim\n● Thistravelpolicy&reimbursementclaimappliestoallindividualstravelingupto1monthatatime.\n● Individualsthataretravelingforalongerperiodthan1montharerequiredtofindtheirownpermanentlivingsituation.ThisistobevalidatedbytheAreaManagerswithafinalapprovalfromaSVPinadvance\n16.6.1.Approval\n● AnyemployeetravelingoutsidetheirregionofworkshouldtakepriorapprovalfromtheirReportingandTeamManagerandAreaLead.\n● Employeeshouldgettheapprovalforthetravelplanincludingtraveldetails,no.ofdaysofstay, totalestimatedexpenditurefromtheHOD/Finance/PMT\n● SuchdetailsshouldbefilledintheTravelRequisitionformadmindepartment.\n● IncaseofemployeestravelingviaAir, requisitionshouldbesenttotheAdminDepartmentoneweekpriortothetravelingdate.\n43LeapfrogEmployeeHandbook",
+      "page": 42
+    },
+    {
+      "source": "Hands_On.pdf",
+      "chunk": "● Fortravelby land,an employeehasto managethetravelarrangementbyhimself/herself.\n16.6.2.Reimbursement\n● Allowanceswillonlybereimbursedagainstthevalidtax/paninvoice.\n● EmployeesshouldsubmitalltheinvoicesofexpenditureincurredalongwiththeapprovedTravelRequisitionformwithin1 weekofreturningtobaselocation.Latesubmissionmayleadtonoreimbursement.\n● UponapprovalfromLeadof Operations/Finance/PeopleManagement,DailyAllowances/MealAllowancescanbereimbursedaspertheactualdaysoftravelandsuchamountwillbeaddedtotheincomeoftheemployeeandtaxwillbedeductedaspergovernmentrule.\n● Uponverificationoftheexpenses,theAdminDepartmentshallforwardthetraveldetailstofinanceforpayment.\n● If anyemployeerequiresadvanceforthebusinesstravel,thensuchrequisitionshouldbe sent priorto 1 weekof the traveldate to the LeadofOperations/Finance/PeopleManagement.The 70% of the totalestimatedexpenditureshallbereleasedasadvance.\n44LeapfrogEmployeeHandbook",
+      "page": 43
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "Leapfrog Anti-Harassment Policy (Nepal)\n1. Introduction\n2. Purpose\n3. Scope\n4. Definitions4.1 Harassment:\n4.2 Discrimination\n4.3 Sexual Harassment\n5. Means of Harassment5.1 Verbal Harassment:\n5.2 Non-Verbal Harassment:\n5.3 Physical Harassment:\n5.4 Cyber Harassment:\n6. Reporting Mechanism\n7. Investigation Mechanism\n8. Confidentiality\n9. Protection of the Complainant\n10. Retaliation\n11. Response and Resolution\n12. Conciliation\n13. Expectations from Employees\n14. Prevention and Awareness\n15. Disciplinary Action\n16. Additional Clauses\n17. Legal Framework\n18. Revision History\n1. Introduction\nAt Leapfrog, we are dedicated to creating a workplace where everyone feels safe and respected. Harassment or discrimination of any kind, \nbased on things like race, gender, ethnicity, or disability, is simply not tolerated. This policy outlines what harassment looks like and what \nsteps you can take to report it.\n2. Purpose\nProtect individuals from forms of harassment.",
+      "page": 0
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "steps you can take to report it.\n2. Purpose\nProtect individuals from forms of harassment.\nEnsure all incidents are handled fairly and consistently, promoting a safe and respectful workplace for everyone.\nEstablish a clear process for reporting and addressing complaints.\n3. Scope\nThis policy applies to:\nAll employees, from support staff to senior management.\nContractors, clients, and visitors.\nWork-related activities beyond the office, including remote work, off-site meetings, and company-sponsored social events.",
+      "page": 0
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "4. Definitions\nThis section defines what constitutes harassment, ensuring that all employees understand what behaviors are not tolerated.\n4.1 Harassment:\nHarassment covers any remarks or behavior that offends based on race, age, ethnicity, religion, or other protected characteristics, even if \nmeant as a joke. \nExamples of inappropriate behavior may include:\nUsing profanity or slurs\nThreatening gestures\nPublicly belittling an employee\n4.2 Discrimination\nDiscrimination is when someone is treated unfairly based on characteristics like origin, religion, gender, or disability. According to The Labor \nAct, 2017 (2074) and The Right to Employment Act, 2075 (2018) of Nepal discrimination based on one’s origin, religion, color, caste, \nethnicity, sex, language, region, ideology, tribe or similar other ground is prohibited and is considered as a punishable offense.\n4.3 Sexual Harassment",
+      "page": 1
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "ethnicity, sex, language, region, ideology, tribe or similar other ground is prohibited and is considered as a punishable offense.\n4.3 Sexual Harassment\nAccording to Section 4 of the Sexual Harassment at Workplace Prevention Act, sexual harassment is defined as any of the following \nunsolicited acts carried out or caused to be carried out by a person in violation of his or her authority or position, or as a result of the \nimposition of duress, undue influence, or enticement:\n1. Making sexual advances or physical contact\n2. Displaying pornographic content\n3. Expressing sexual intentions through writing, speaking, or nonverbal cues.\n4. Request or suggestion for sexual favors\n5. Harassing or flirting with a sexual intent.\n5. Means of Harassment\n5.1 Verbal Harassment:\nVerbal harassment refers to the use of words, insults, or derogatory language to demean, belittle, or intimidate someone. Offensive \nremarks, jokes, or slurs related to someone’s identity (gender, race, religion, etc.).",
+      "page": 1
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "remarks, jokes, or slurs related to someone’s identity (gender, race, religion, etc.).\nRepeatedly making comments about someone’s appearance or background that makes them uncomfortable.\n5.2 Non-Verbal Harassment:\nThis includes inappropriate gestures, sharing offensive materials (such as images or emails), or non-verbal cues.\n5.3 Physical Harassment:\nUnwanted physical contact, such as touching.\nPhysical intimidation.",
+      "page": 1
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "5.4 Cyber Harassment:\nSending offensive messages or comments online, including through emails or social media. \n6. Reporting Mechanism\nIf you experience harassment or discrimination, you can report it through Leapfrog’s following Speak-up channels : \nHarassment Reporting: Submit a written complaint including details, witnesses (if any), and supporting evidence via the Harassment \nReporting form. \nAsk & Share Us Anything: The \"Ask & Share Us Anything\" form can also be used to report harassment cases to internal teams. Access \nto the form is restricted to the People Management Lead and the SVP of Engineering & Operations, who will ensure confidentiality and \ntake appropriate action when needed. The People Management Lead and the SVP of Engineering & Operations shall promptly and \nwithout delay escalate the complaint to the BoD by filling in the  Harassment Reporting form.",
+      "page": 2
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "without delay escalate the complaint to the BoD by filling in the  Harassment Reporting form.\nDirect Reporting: Any employee who is a victim or who is aware that harassing conduct is prevailing can report harassment directly to \ntheir Team Manager or any superiors. It’s the responsibility of the Team Manager and superiors to report the case to People \nManagement Lead and the SVP of Engineering & Operations. The People Management Lead and the SVP of Engineering & Operations \nshall promptly and without delay escalate the complaint to the BoD by filling in the Harassment Reporting form.\nIf the accused is either SVP, People Management Lead, or the superior, you can skip the hierarchy and scan the QR, and submit the \ncomplaint/report through the form.\n7. Investigation Mechanism\nFormal Investigation: Harassment complaints submitted through the Harassment Reporting form are directly received by Board of",
+      "page": 2
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "complaint/report through the form.\n7. Investigation Mechanism\nFormal Investigation: Harassment complaints submitted through the Harassment Reporting form are directly received by Board of \nDirectors (BOD) members. Any harassment complaints received through other speak-up channels and authorities need to be also \nescalated to the BoD.\nUpon receiving a complaint, BoD appoints an external legal consultant to form an investigation committee composed of the designated \nBoD members, external legal consultants, and, if any, internal team members. The “external legal consultant” must be a firm or \nindividual attorney who is rated “Tier One” in the Chamber and Partners Global rating. The external legal consultant in coordination with \nthe committee will then begin a formal investigation, which includes interviewing both the complainant and the accused, as well as",
+      "page": 2
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "the committee will then begin a formal investigation, which includes interviewing both the complainant and the accused, as well as \ncalling any witnesses and reviewing available evidence. This process must be carried out such that the investigation must be completed \nwithin 12 days from the receipt of the complaint. The role of “internal team member” shall be limited to secretarial roles and liaising \nbetween committee members.\nFor non-sexual harassment, the BoD may form an internal committee, with no need for an external legal consultant. In sexual \nharassment cases, an external legal consultant will always be appointed. \nRight to Fair Hearing: Both the complainant and the accused will have the right to present their side, provide evidence, and have a \nrepresentative if needed.\nReport Submission: The external legal consultant will submit a report with findings and recommended actions within 12 days from the \ndate of receipt of the complaint.\n8. Confidentiality",
+      "page": 2
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "Report Submission: The external legal consultant will submit a report with findings and recommended actions within 12 days from the \ndate of receipt of the complaint.\n8. Confidentiality\nProtection of Information: All complaints, investigations, and associated proceedings will be kept strictly confidential. The identity of the \ncomplainant, accused, and witnesses will not be disclosed to anyone other than the BoD and investigation committee.\nDocument Security: All investigation records will be securely stored and accessed only by BoD and the investigation committee.\n9. Protection of the Complainant\nNo Adverse Action: The complainant will not face any adverse consequences, such as demotion, termination, or unfavorable work \nconditions, for solely reporting harassment.",
+      "page": 2
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "Interim Measures: If necessary, temporary arrangements like changing work shifts or locations will be made to ensure a safe working \nenvironment while the investigation is ongoing.\n10. Retaliation\nZero Tolerance for Retaliation: Any form of retaliation, such as intimidation, threats, demotion, or dismissal, against a complainant or \nwitness is strictly prohibited and will result in disciplinary action.\nReporting Retaliation: Employees facing retaliation can report it to the superior. Leapfrog will promptly investigate and take appropriate \nactions.\n11. Response and Resolution\nCorrective Actions: Depending on the severity of the offense, actions may include counseling, written warnings, suspension, or \ntermination.\nResolution Timeline: The entire process should be concluded within 14 days of the reporting of the harassment.\n12. Conciliation\nVoluntary Conciliation: A harassment complaint can be resolved through conciliation provided that both parties consent to a \nconciliation effort.",
+      "page": 3
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "12. Conciliation\nVoluntary Conciliation: A harassment complaint can be resolved through conciliation provided that both parties consent to a \nconciliation effort.\nConfidential Agreement: If conciliation is successful, the terms of the settlement will remain confidential.\n13. Expectations from Employees\nProfessional Conduct: All employees are expected to maintain a respectful and professional work environment, free from harassment \nof any kind.\nBystander Responsibility: Employees witnessing harassment must report it to the superior. Bystanders play a crucial role in preventing \nworkplace harassment.\n14. Prevention and Awareness\nRegular Training: The company will conduct mandatory training sessions on sexual harassment prevention and employee rights under \nthe Nepal Labour Act 2017.\nPolicy Communication: All employees will receive a copy of this policy, and it will be included in the company's Knowledge \nManagement System, Confluence.",
+      "page": 3
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "the Nepal Labour Act 2017.\nPolicy Communication: All employees will receive a copy of this policy, and it will be included in the company's Knowledge \nManagement System, Confluence. \nWorkplace Culture: Managers and team leads are expected to foster a culture of respect and openness to ensure employees feel safe \nand heard.\n15. Disciplinary Action\nConsequences for Offenders: Based on the investigation's outcome, disciplinary action may include verbal or written warnings, \nsuspension, demotion, or termination. Serious offenses may lead to legal action.\nFalse Complaints: If an investigation reveals that the complaint was maliciously fabricated, the complainant may face disciplinary \naction. However, this may not apply to cases where complaints are unproven due to insufficient evidence.\n16. Additional Clauses\nSupport for Victims: The company will offer counseling services or external professional help for employees impacted by harassment.",
+      "page": 3
+    },
+    {
+      "source": "LF-Policy.pdf",
+      "chunk": "Post-Incident Monitoring: The investigation committee will follow up with both the complainant and the accused after the case's \nresolution to ensure no further issues arise.\nPeriodic Review: The policy will be reviewed annually to reflect changes in law or workplace dynamics.\n17. Legal Framework\nThis policy is developed in alignment with the Nepal Labour Act 2017 and other relevant legal provisions, including the Sexual \nHarassment at Workplace Prevention Act, 2015. Any conflicts between this policy and the law will default to the legal provisions.\n18. Revision History\nSeptember, 2024 Dixa Shrestha (Sr. \nManager, People \nManagement),\nJyoti Pokharel \n(Officer, People \nManagement)\nPrimary Policy Kailash Bijayananda \n(Senior Vice \nPresident, \nEngineering & \nOperations)\nDate Of Change Responsibility Summary of Change Approved By",
+      "page": 4
+    }
+  ]
+}

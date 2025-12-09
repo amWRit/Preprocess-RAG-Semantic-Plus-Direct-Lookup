@@ -115,7 +115,7 @@ class Preprocessor:
         self.unstructured_dir = unstructured_dir or os.path.join(project_root, "data", "unstructured")
         self.structured_dir = structured_dir or os.path.join(project_root, "data", "structured")
         self.faiss_dir = faiss_dir or os.path.join(project_root, "public", "vector-store")
-        self.output_json = output_json or os.path.join(project_root, "public", "all_structured_data.json")
+        self.output_json = output_json or os.path.join(project_root, "public", "json", "structured_data.json")
         self.faiss_index_path = os.path.join(self.faiss_dir, "index.faiss")
         
         # Initialize AWS and LLM
@@ -359,58 +359,13 @@ class Preprocessor:
         print(f"[+] Converted {len(documents)} items to Document objects")
         return documents
     
-    def create_faiss_index(self, documents):
-        """Create and save FAISS index from documents."""
-        print(f"\n[*] Creating FAISS index at {self.faiss_dir}...")
-        
-        db = FAISS.from_documents(
-            documents=documents,
-            embedding=self.embeddings
-        )
-        db.save_local(self.faiss_dir)
-        
-        print(f"[+] FAISS index created with {len(documents)} documents")
-        return db
-    
-    def load_faiss_index(self):
-        """Load existing FAISS index."""
-        print(f"\n[*] Loading existing FAISS index from {self.faiss_dir}...")
-        
-        db = FAISS.load_local(
-            folder_path=self.faiss_dir,
-            embeddings=self.embeddings,
-            allow_dangerous_deserialization=True
-        )
-        
-        print(f"[+] FAISS index loaded with {db.index.ntotal} documents")
-        return db
-    
-    def rebuild_index(self):
-        """Force rebuild the FAISS index (delete and recreate)."""
-        print("\n[!] Rebuilding FAISS index...")
-        
-        # Delete existing index if present
-        if self._is_index_exists():
-            shutil.rmtree(self.faiss_dir, ignore_errors=True)
-            print(f"[+] Deleted old FAISS index at {self.faiss_dir}")
-        
-        # Process documents
-        print("\n[!] Reprocessing all documents...")
-        unstructured_chunks = self.process_unstructured_data()
+
+    def run_pipeline(self):
+        """Extract structured data from PDFs and save as structured_data.json."""
+        print("\n[*] Extracting structured data from PDFs...")
         extracted_results = self.process_structured_data()
-        
-        # Save and convert structured data
         self.save_structured_data(extracted_results)
-        structured_documents = self.convert_to_documents(extracted_results)
-        
-        # Combine and create new index
-        all_documents = unstructured_chunks + structured_documents
-        print(f"\n[+] Total documents: {len(all_documents)}")
-        db = self.create_faiss_index(all_documents)
-        
-        # Print summary
-        self._print_summary(db)
-        return db
+        print(f"[+] Structured data saved to {self.output_json}")
     
     def run(self):
         """Main preprocessing pipeline."""
@@ -504,9 +459,5 @@ if __name__ == "__main__":
         output_json=args.output_json
     )
     
-    if args.rebuild:
-        print("\n[!] Rebuild flag detected. Forcing rebuild...")
-        db = preprocessor.rebuild_index()
-    else:
-        db = preprocessor.run()
+    preprocessor.run_pipeline()
 

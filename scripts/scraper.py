@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """
 TFN Flexible Web Scraper - ✅ TRUE LAST PAGE DETECTION (NO LOOPING!)
-✅ Schools Tanahun: Stops at page 1 after seeing BOTH Prev+Next DISABLED!
 
-Usage: python scripts/flexible_scraper.py --scrape-all
+Usage: python scripts/scraper.py --scrape-all
 """
 
 import os
@@ -271,7 +270,7 @@ def extract_item(container, config):
 def save_results(results):
     """Merge all scraped data into JSON."""
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    json_path = os.path.join(project_root, "public", "all_structured_data.json")
+    json_path = os.path.join(project_root, "public", "json", "scraped_data.json")
     
     existing_data = {}
     if os.path.exists(json_path):
