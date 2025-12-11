@@ -4,7 +4,7 @@ TFN-AI RAG Preprocessing Script with Pre-computed Embeddings (FAISS Version)
 Processes PDFs, generates embeddings, and saves vector store for instant loading
 
 Usage:
-    python scripts/preprocess_docs.py
+    python scripts/preprocess.py
 
 Requirements:
     pip install langchain-text-splitters langchain-community langchain-aws boto3 faiss-cpu python-dotenv
@@ -94,7 +94,7 @@ DOCUMENT_TYPES_CONFIG = {
 
 # ==================== DocumentPreprocessor Class ====================
 
-class DocumentPreprocessor:
+class Preprocessor:
     """
     A modular class for preprocessing documents and building FAISS vector store.
     """
@@ -115,7 +115,7 @@ class DocumentPreprocessor:
         self.unstructured_dir = unstructured_dir or os.path.join(project_root, "data", "unstructured")
         self.structured_dir = structured_dir or os.path.join(project_root, "data", "structured")
         self.faiss_dir = faiss_dir or os.path.join(project_root, "public", "vector-store")
-        self.output_json = output_json or os.path.join(project_root, "public", "all_structured_data.json")
+        self.output_json = output_json or os.path.join(project_root, "public", "json", "structured_data.json")
         self.faiss_index_path = os.path.join(self.faiss_dir, "index.faiss")
         
         # Initialize AWS and LLM
@@ -299,17 +299,36 @@ class DocumentPreprocessor:
         return extracted_results
     
     def save_structured_data(self, extracted_results):
-        """Save extracted structured data to JSON file."""
-        output_data = {}
+        """✅ READS scraper JSON + EXTENDS with PDF data."""
+        # Load EXISTING scraper data (alumni, fellows, schools)
+        existing_data = {}
+        if os.path.exists(self.output_json):
+            try:
+                with open(self.output_json, 'r', encoding='utf-8') as f:
+                    existing_data = json.load(f)
+                print(f"📂 Loaded existing scraper data: {len(existing_data)} sections")
+            except Exception as e:
+                print(f"⚠️  Could not load existing JSON: {e}")
+        
+        # Add PDF extracted data
+        pdf_data = {}
         for result in extracted_results:
             field_name = result["field_name"]
             items = result["items"]
-            output_data[field_name] = [item.model_dump() for item in items]
+            pdf_data[field_name] = [item.model_dump() for item in items]
         
-        with open(self.output_json, "w") as f:
-            json.dump(output_data, f, indent=2)
+        # ✅ MERGE: existing (scraper) + new (PDF)
+        combined_data = {**existing_data, **pdf_data}
+        
+        # Write combined data
+        with open(self.output_json, "w", encoding='utf-8') as f:
+            json.dump(combined_data, f, indent=2, ensure_ascii=False)
         
         print(f"[+] Structured data saved to {self.output_json}")
+        print(f"[+] Combined data saved to {self.output_json}")
+        print(f"    📊 Scraper sections: {len(existing_data)}")
+        print(f"    📊 PDF sections: {len(pdf_data)}")
+        print(f"    📊 TOTAL sections: {len(combined_data)}")
     
     def convert_to_documents(self, extracted_results):
         """Convert extracted structured data to Document objects."""
@@ -340,58 +359,13 @@ class DocumentPreprocessor:
         print(f"[+] Converted {len(documents)} items to Document objects")
         return documents
     
-    def create_faiss_index(self, documents):
-        """Create and save FAISS index from documents."""
-        print(f"\n[*] Creating FAISS index at {self.faiss_dir}...")
-        
-        db = FAISS.from_documents(
-            documents=documents,
-            embedding=self.embeddings
-        )
-        db.save_local(self.faiss_dir)
-        
-        print(f"[+] FAISS index created with {len(documents)} documents")
-        return db
-    
-    def load_faiss_index(self):
-        """Load existing FAISS index."""
-        print(f"\n[*] Loading existing FAISS index from {self.faiss_dir}...")
-        
-        db = FAISS.load_local(
-            folder_path=self.faiss_dir,
-            embeddings=self.embeddings,
-            allow_dangerous_deserialization=True
-        )
-        
-        print(f"[+] FAISS index loaded with {db.index.ntotal} documents")
-        return db
-    
-    def rebuild_index(self):
-        """Force rebuild the FAISS index (delete and recreate)."""
-        print("\n[!] Rebuilding FAISS index...")
-        
-        # Delete existing index if present
-        if self._is_index_exists():
-            shutil.rmtree(self.faiss_dir, ignore_errors=True)
-            print(f"[+] Deleted old FAISS index at {self.faiss_dir}")
-        
-        # Process documents
-        print("\n[!] Reprocessing all documents...")
-        unstructured_chunks = self.process_unstructured_data()
+
+    def run_pipeline(self):
+        """Extract structured data from PDFs and save as structured_data.json."""
+        print("\n[*] Extracting structured data from PDFs...")
         extracted_results = self.process_structured_data()
-        
-        # Save and convert structured data
         self.save_structured_data(extracted_results)
-        structured_documents = self.convert_to_documents(extracted_results)
-        
-        # Combine and create new index
-        all_documents = unstructured_chunks + structured_documents
-        print(f"\n[+] Total documents: {len(all_documents)}")
-        db = self.create_faiss_index(all_documents)
-        
-        # Print summary
-        self._print_summary(db)
-        return db
+        print(f"[+] Structured data saved to {self.output_json}")
     
     def run(self):
         """Main preprocessing pipeline."""
@@ -478,16 +452,12 @@ def parse_arguments():
 if __name__ == "__main__":
     args = parse_arguments()
     
-    preprocessor = DocumentPreprocessor(
+    preprocessor = Preprocessor(
         unstructured_dir=args.unstructured_dir,
         structured_dir=args.structured_dir,
         faiss_dir=args.faiss_dir,
         output_json=args.output_json
     )
     
-    if args.rebuild:
-        print("\n[!] Rebuild flag detected. Forcing rebuild...")
-        db = preprocessor.rebuild_index()
-    else:
-        db = preprocessor.run()
+    preprocessor.run_pipeline()
 
